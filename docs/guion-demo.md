@@ -6,9 +6,11 @@ Duración orientativa: **6-8 minutos**. Los prompts están pensados para que apa
 
 - [ ] Ejecuta `sql/01_crear_demo.sql` **el día antes** para que los datos lleguen hasta ayer.
 - [ ] Revisa el apartado 8 del script y confirma que Sur cae e Internacional crece.
-- [ ] Comprueba que la conexión de Snowflake en Claude usa el rol `CLAUDE_DATA_LECTOR`.
+- [ ] Comprueba que la conexión de Snowflake en Claude usa el rol `CLAUDE_DATA_LECTOR` (o, en el plan B, ten a mano los dos CSV).
 - [ ] Ten **un panel ya creado** como plan B, por si falla la conexión en directo.
 - [ ] Cierra pestañas y notificaciones.
+
+> **Plan B, sin servidor MCP (cuenta de prueba de Snowflake):** antes de cada pregunta, adjunta en el chat `data/ventas_detalle.csv` y `data/clientes.csv`, o tus propias exportaciones (ver el README). Las preguntas son las mismas.
 
 ## 1. Una pregunta, un panel (≈ 2 min)
 

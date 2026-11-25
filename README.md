@@ -26,7 +26,7 @@ Documentación oficial:
 | Necesitas | Detalle |
 | --- | --- |
 | Un plan de pago de Claude | Claude Data está en Pro, Max, Ultra, Team y Enterprise. En Enterprise lo activa un administrador. |
-| Una cuenta de Snowflake | Con una [cuenta de prueba](https://signup.snowflake.com/) basta. El script usa un warehouse X-Small que se apaga a los 60 s. |
+| Una cuenta de Snowflake **de pago** | Con una [cuenta de prueba](https://signup.snowflake.com/) puedes crear los datos (`01_crear_demo.sql`), pero **no conectar Claude**: las cuentas de prueba no permiten usar servidores MCP y Claude recibe el error *Access denied for trial accounts*. Los scripts usan un warehouse X-Small que se apaga a los 60 s. |
 | Permisos de ACCOUNTADMIN en Snowflake | Solo para ejecutar el script de creación. Claude se conecta con un rol de solo lectura. |
 
 ## Estructura del repositorio
@@ -34,12 +34,22 @@ Documentación oficial:
 ```
 .
 ├── README.md
+├── data/
+│   ├── ventas_detalle.csv             # Plan B: pedidos exportados de Snowflake
+│   └── clientes.csv                   # Plan B: clientes exportados de Snowflake
 ├── assets/
 │   ├── logo-conservas-ardora.jpg      # Logo de la conservera
-│   └── snowflake-resultado.png        # Resultado esperado al ejecutar el script
+│   ├── snowflake-resultado.png        # Resultado esperado de 01_crear_demo.sql
+│   ├── snowflake-conexion.png         # Resultado de 03_conectar_claude.sql (claves ocultas)
+│   ├── claude-conector-oauth.png      # Formulario del conector personalizado en Claude
+│   ├── claude-conector-conectado.png  # Conector conectado (cuenta oculta)
+│   ├── plan-b-exportar.png            # Plan B: exportar las ventas desde Snowsight
+│   └── plan-b-exportar-clientes.png   # Plan B: exportar los clientes desde Snowsight
 ├── sql/
 │   ├── 01_crear_demo.sql              # Crea warehouse, base de datos, tablas, vista y rol de lectura
 │   ├── 02_consultas_certificadas.sql  # Consultas para certificar en Claude Data
+│   ├── 03_conectar_claude.sql         # Servidor MCP y acceso OAuth para Claude
+│   ├── 04_exportar_plan_b.sql         # Plan B: exportar los datos a CSV
 │   └── 99_limpieza.sql                # Borra todo lo creado
 └── docs/
     ├── modelo-de-datos.md             # Tablas, columnas y relaciones
@@ -76,15 +86,58 @@ Se crea lo siguiente:
 
 ### 2. Conecta Snowflake a Claude
 
-Conecta tu cuenta de Snowflake desde Claude como almacén de datos. Usa estos valores:
+Claude Data consulta Snowflake a través de un **conector**: un servidor MCP que crea el propio Snowflake, con una herramienta SQL de **solo lectura**.
+
+**2.1 · Prepara Snowflake.** Ejecuta [`sql/03_conectar_claude.sql`](sql/03_conectar_claude.sql) con **Run All**. El script:
+
+| Crea | Para qué |
+| --- | --- |
+| Servidor MCP `DEMO_CLAUDE_DATA.VENTAS.CLAUDE_MCP` | Es la «puerta» por la que Claude ejecuta consultas, solo de lectura, con el warehouse `CLAUDE_DATA_WH` |
+| Integración OAuth `CLAUDE_OAUTH` | Permite que Claude inicie sesión en Snowflake en tu nombre. Solo admite el rol `CLAUDE_DATA_LECTOR` |
+| Rol por defecto `CLAUDE_DATA_LECTOR` en tu usuario | Claude entra con tu rol por defecto, y Snowflake bloquea `ACCOUNTADMIN` para OAuth. En Snowsight puedes seguir cambiando a `ACCOUNTADMIN` cuando lo necesites |
+
+Al terminar muestra una fila con los tres datos que pide el conector:
+
+![Resultado de 03_conectar_claude.sql, con la cuenta y las claves ocultas](assets/snowflake-conexion.png)
+
+> ⚠ **El `CLIENT_SECRET` es una contraseña.** Pégalo solo en el formulario del conector de Claude: nunca en un chat, una diapositiva, una captura ni en GitHub. Si se te escapa, vuelve a ejecutar el script para generar unas claves nuevas; las anteriores dejan de valer.
+
+**2.2 · Añade el conector en Claude.** En Claude, abre **Plugins › Add › conector personalizado** (*Add custom connector*):
 
 | Campo | Valor |
 | --- | --- |
-| Rol | `CLAUDE_DATA_LECTOR` (no uses `ACCOUNTADMIN`) |
-| Warehouse | `CLAUDE_DATA_WH` |
-| Base de datos y esquema | `DEMO_CLAUDE_DATA` · `VENTAS` |
+| Nombre | `Snowflake_Conservas_Ardora` (o el que quieras) |
+| URL | `URL_SERVIDOR_MCP` del paso anterior |
+| Tipo de autenticación | **Use your own OAuth client** (Claude lo detecta solo) |
+| OAuth client ID | `CLIENT_ID` |
+| OAuth client secret | `CLIENT_SECRET`. Aunque el formulario dice *optional*, aquí **es obligatorio** |
 
-Claude trabaja con los permisos de la conexión. Con este rol solo puede leer la base de datos de la demo.
+<img src="assets/claude-conector-oauth.png" alt="Formulario Add custom connector con Use your own OAuth client" width="420">
+
+Pulsa **Add** y luego **Connect**. Se abre Snowflake en el navegador: inicia sesión, acepta el permiso y, si lo pide, vuelve a la app de escritorio con **Open desktop app**. El conector queda como **Connected**, con una sola herramienta, `sql_exec_tool`, de solo lectura:
+
+![Conector Snowflake_Conservas_Ardora conectado en Claude (cuenta oculta)](assets/claude-conector-conectado.png)
+
+> ⚠ **Con una cuenta de prueba de Snowflake el conector aparece como *Connected*, pero las consultas fallan** con `Access denied for trial accounts`. El servidor MCP de Snowflake solo funciona en cuentas de pago.
+
+Claude trabaja con los permisos de la conexión: con el rol `CLAUDE_DATA_LECTOR` solo puede **leer** la base de datos de la demo.
+
+### Plan B · Sin servidor MCP: exporta los datos a CSV
+
+Si tu cuenta de Snowflake es de prueba, Claude no puede consultarla en directo. La demo funciona igual con los datos exportados:
+
+1. Ejecuta las dos consultas de [`sql/04_exportar_plan_b.sql`](sql/04_exportar_plan_b.sql), cada una por separado.
+2. Descarga cada resultado en CSV con el botón de descarga de la barra de resultados (marcado en rojo):
+
+   ![Exportar V_VENTAS_DETALLE desde Snowsight](assets/plan-b-exportar.png)
+
+   ![Exportar los clientes desde Snowsight](assets/plan-b-exportar-clientes.png)
+
+3. En un chat de Claude, adjunta `ventas_detalle.csv` y `clientes.csv` y haz la pregunta de la demo.
+
+> **¿Sin Snowflake?** En la carpeta [`data/`](data) están los dos CSV ya exportados (54.325 pedidos de enero de 2025 al 24 de noviembre de 2026 y 1.525 clientes). Con ellos puedes repetir la demo directamente en Claude.
+
+El panel muestra los datos de los archivos, no una consulta en vivo: si vuelves a generar los datos en Snowflake, exporta de nuevo.
 
 ### 3. Haz la demo
 
@@ -102,7 +155,7 @@ Para certificar una consulta, abre la de un gráfico, edítala, activa **Certifi
 
 ### 5. Limpieza
 
-Cuando termines, ejecuta [`sql/99_limpieza.sql`](sql/99_limpieza.sql). Borra la base de datos, el warehouse y el rol, y no se puede deshacer.
+Cuando termines, ejecuta [`sql/99_limpieza.sql`](sql/99_limpieza.sql). Borra la base de datos, el servidor MCP, la integración OAuth, el warehouse y el rol, y devuelve tu rol por defecto a ACCOUNTADMIN. No se puede deshacer. Quita también el conector en Claude › Ajustes › Conectores.
 
 ## La historia que esconden los datos
 
@@ -110,15 +163,15 @@ Los datos están preparados para que Claude encuentre algo interesante:
 
 | Hallazgo | Cómo aparece |
 | --- | --- |
-| Casi todos los mercados crecen en el trimestre en curso | ≈ +8-12 % frente al mismo periodo del trimestre anterior |
-| **Sur cae** | ≈ -15 %: la cadena *Supermercados Hispalis* (Sevilla), su mayor cliente, dejó de comprar unas semanas antes de empezar el trimestre |
-| **Internacional es el que más crece** | ≈ +30 %, empujado por importadores (canal *Distribuidor*) de Portugal, Francia, Reino Unido y México |
+| Casi todos los mercados crecen en el trimestre en curso | En los datos de `data/`: +32,8 % en total frente al mismo periodo del trimestre anterior |
+| **Sur es la única región que cae** | −1,5 % en los datos de `data/`: la cadena *Supermercados Hispalis* (Sevilla), su mayor cliente, dejó de comprar el 7 de septiembre (161.377 € en el periodo anterior, 0 € ahora) |
+| **Internacional es la que más crece** | +57,1 % en los datos de `data/`, empujado por importadores (canal *Distribuidor*: de 44.671 € a 350.142 €) de Portugal, Francia, Reino Unido y México |
 | Pico de **altas por el canal Feria** este mes | Ideal para la pregunta «¿cómo se comparan las altas de este mes por canal con las del mes pasado?» |
 | Campaña de Navidad | Los lotes y estuches de regalo suben en noviembre y diciembre |
 | ~8 % de pedidos devueltos o cancelados | Si se suma el importe sin filtrar `ESTADO = 'Completado'`, los ingresos salen inflados. Es el motivo para certificar consultas |
 | Galicia es el mercado principal | ≈ 30 % de las ventas |
 
-Los porcentajes son aproximados porque los datos cambian en cada ejecución.
+Si vuelves a ejecutar `01_crear_demo.sql`, los datos se generan de nuevo y las cifras cambian, pero la historia se mantiene.
 
 ## Licencia
 

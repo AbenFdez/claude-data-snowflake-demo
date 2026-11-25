@@ -1,0 +1,1526 @@
+CLIENTE_ID,NOMBRE_CLIENTE,REGION,CIUDAD,PAIS,SEGMENTO,CANAL_ALTA,FECHA_ALTA
+1,Supermercados Hispalis,Sur,Sevilla,España,Gran cuenta,Comercial directo,2022-01-01
+2,Mesón Atlántico,Centro,Salamanca,España,Hostelería,Comercial directo,2026-06-07
+3,Cadena Atlántico,Internacional,Oporto,Portugal,Gran cuenta,Web,2024-11-04
+4,Vinoteca Atlántico,Centro,Toledo,España,Tienda gourmet,Web,2024-10-06
+5,Almacenes Atlántico,Galicia,Santiago de Compostela,España,Distribuidor,Web,2026-11-11
+6,Hotel Atlántico,Este,Valencia,España,Hostelería,Web,2022-08-22
+7,Casa de Comidas Atlántico,Centro,Cáceres,España,Hostelería,Web,2022-10-18
+8,Bar Atlántico,Galicia,A Coruña,España,Hostelería,Comercial directo,2023-10-20
+9,Asador Atlántico,Internacional,Oporto,Portugal,Hostelería,Web,2026-04-06
+10,Distribuciones Arousa,Centro,Salamanca,España,Distribuidor,Comercial directo,2023-05-30
+11,Taberna Arousa,Centro,Madrid,España,Hostelería,Distribuidor,2026-09-09
+12,Colmado Arousa,Sur,Cádiz,España,Tienda gourmet,Comercial directo,2023-11-12
+13,Despensa Arousa,Galicia,Santiago de Compostela,España,Tienda gourmet,Web,2026-07-22
+14,Pulpería Arousa,Centro,Valladolid,España,Hostelería,Web,2023-02-19
+15,Gastrobar Arousa,Este,Palma,España,Hostelería,Distribuidor,2023-02-02
+16,Charcutería Arousa,Centro,Salamanca,España,Tienda gourmet,Feria,2023-09-28
+17,Importaciones Arousa,Galicia,Ourense,España,Distribuidor,Web,2023-10-14
+18,Bar Arousa,Este,Palma,España,Hostelería,Distribuidor,2022-03-29
+19,Provisiones Arousa,Internacional,Oporto,Portugal,Distribuidor,Comercial directo,2024-03-05
+20,Distribuciones Rías Baixas,Galicia,A Coruña,España,Distribuidor,Feria,2024-12-25
+21,Taberna Rías Baixas,Galicia,Santiago de Compostela,España,Hostelería,Comercial directo,2025-03-20
+22,Mesón Rías Baixas,Galicia,Ourense,España,Hostelería,Feria,2022-02-12
+23,Cash Rías Baixas,Este,Zaragoza,España,Distribuidor,Feria,2022-12-11
+24,Pulpería Rías Baixas,Este,Alicante,España,Hostelería,Web,2023-01-06
+25,Tienda Gourmet Rías Baixas,Este,Zaragoza,España,Tienda gourmet,Web,2024-05-29
+26,Logística Alimentaria Rías Baixas,Norte,Pamplona,España,Distribuidor,Comercial directo,2024-07-29
+27,Casa de Comidas Rías Baixas,Galicia,Santiago de Compostela,España,Hostelería,Feria,2023-02-24
+28,Ultramar Rías Baixas,Centro,Cáceres,España,Tienda gourmet,Distribuidor,2023-05-28
+29,Asador Rías Baixas,Galicia,Pontevedra,España,Hostelería,Distribuidor,2025-11-04
+30,Restaurante O Grove,Galicia,Vigo,España,Hostelería,Web,2022-05-20
+31,Comercial O Grove,Este,Palma,España,Distribuidor,Web,2023-01-19
+32,Mesón O Grove,Centro,Cáceres,España,Hostelería,Web,2022-02-28
+33,Marisquería O Grove,Internacional,Ciudad de México,México,Hostelería,Web,2025-08-08
+34,Pulpería O Grove,Sur,Cádiz,España,Hostelería,Comercial directo,2024-10-24
+35,Tienda Gourmet O Grove,Centro,Toledo,España,Tienda gourmet,Web,2025-09-17
+36,Charcutería O Grove,Internacional,Lisboa,Portugal,Tienda gourmet,Distribuidor,2022-11-27
+37,Casa de Comidas O Grove,Galicia,Lugo,España,Hostelería,Comercial directo,2025-07-20
+38,Gourmet Selección O Grove,Centro,Valladolid,España,Distribuidor,Web,2025-07-07
+39,Asador O Grove,Centro,Toledo,España,Hostelería,Web,2025-08-16
+40,Delicatessen Cambados,Centro,Salamanca,España,Tienda gourmet,Comercial directo,2024-08-19
+41,Comercial Cambados,Internacional,Lisboa,Portugal,Distribuidor,Feria,2025-10-21
+42,Mesón Cambados,Centro,Salamanca,España,Hostelería,Distribuidor,2024-10-17
+43,Despensa Cambados,Sur,Murcia,España,Tienda gourmet,Web,2022-12-11
+44,Pulpería Cambados,Galicia,Lugo,España,Hostelería,Web,2026-05-24
+45,Gastrobar Cambados,Internacional,París,Francia,Hostelería,Web,2022-12-18
+46,Hotel Cambados,Sur,Sevilla,España,Hostelería,Web,2023-07-26
+47,Mercado Cambados,Centro,Madrid,España,Tienda gourmet,Comercial directo,2026-05-12
+48,Ultramar Cambados,Norte,Pamplona,España,Tienda gourmet,Web,2024-10-06
+49,Bodega Cambados,Norte,Gijón,España,Tienda gourmet,Web,2026-05-18
+50,Delicatessen Fisterra,Este,Zaragoza,España,Tienda gourmet,Distribuidor,2022-06-19
+51,Hipermercados Fisterra,Galicia,A Coruña,España,Gran cuenta,Web,2023-01-21
+52,Colmado Fisterra,Centro,Salamanca,España,Tienda gourmet,Web,2022-02-10
+53,Cash Fisterra,Sur,Cádiz,España,Distribuidor,Web,2023-01-11
+54,Suministros Hosteleros Fisterra,Sur,Murcia,España,Distribuidor,Feria,2024-02-22
+55,Tienda Gourmet Fisterra,Este,Valencia,España,Tienda gourmet,Distribuidor,2023-09-30
+56,Charcutería Fisterra,Este,Alicante,España,Tienda gourmet,Comercial directo,2022-12-16
+57,Mercado Fisterra,Este,Zaragoza,España,Tienda gourmet,Web,2022-11-21
+58,Ultramar Fisterra,Este,Barcelona,España,Tienda gourmet,Feria,2022-12-29
+59,Provisiones Fisterra,Centro,Toledo,España,Distribuidor,Web,2024-12-13
+60,Restaurante Costa da Morte,Centro,Valladolid,España,Hostelería,Comercial directo,2022-05-25
+61,Taberna Costa da Morte,Galicia,A Coruña,España,Hostelería,Distribuidor,2026-08-23
+62,Mesón Costa da Morte,Centro,Toledo,España,Hostelería,Web,2022-06-22
+63,Cash Costa da Morte,Centro,Segovia,España,Distribuidor,Web,2023-02-14
+64,Suministros Hosteleros Costa da Morte,Sur,Las Palmas de Gran Canaria,España,Distribuidor,Web,2022-05-20
+65,Tienda Gourmet Costa da Morte,Norte,Santander,España,Tienda gourmet,Comercial directo,2024-12-15
+66,Charcutería Costa da Morte,Internacional,Burdeos,Francia,Tienda gourmet,Web,2023-09-16
+67,Hipercentro Costa da Morte,Galicia,Santiago de Compostela,España,Gran cuenta,Web,2023-11-14
+68,Ultramar Costa da Morte,Internacional,Oporto,Portugal,Tienda gourmet,Feria,2025-03-10
+69,Asador Costa da Morte,Este,Alicante,España,Hostelería,Feria,2026-03-19
+70,Supermercados Miño,Este,Alicante,España,Gran cuenta,Comercial directo,2025-07-11
+71,Comercial Miño,Internacional,Lisboa,Portugal,Distribuidor,Feria,2026-05-26
+72,Mesón Miño,Sur,Cádiz,España,Hostelería,Distribuidor,2024-05-14
+73,Despensa Miño,Galicia,Pontevedra,España,Tienda gourmet,Feria,2026-04-15
+74,Pulpería Miño,Centro,Segovia,España,Hostelería,Comercial directo,2024-05-29
+75,Almacenes Miño,Galicia,A Coruña,España,Distribuidor,Web,2024-01-08
+76,Charcutería Miño,Galicia,Vigo,España,Tienda gourmet,Comercial directo,2025-08-10
+77,Importaciones Miño,Galicia,Santiago de Compostela,España,Distribuidor,Web,2025-03-11
+78,Ultramar Miño,Este,Palma,España,Tienda gourmet,Web,2024-03-27
+79,Provisiones Miño,Este,Zaragoza,España,Distribuidor,Web,2025-04-28
+80,Delicatessen Sil,Centro,Cáceres,España,Tienda gourmet,Distribuidor,2025-10-26
+81,Ultramarinos Sil,Galicia,Lugo,España,Tienda gourmet,Distribuidor,2023-05-24
+82,Colmado Sil,Centro,Toledo,España,Tienda gourmet,Comercial directo,2023-05-10
+83,Marisquería Sil,Internacional,Oporto,Portugal,Hostelería,Web,2026-01-13
+84,Vinoteca Sil,Centro,Segovia,España,Tienda gourmet,Web,2025-07-29
+85,Tienda Gourmet Sil,Centro,Valladolid,España,Tienda gourmet,Feria,2024-10-12
+86,Superalimentación Sil,Este,Palma,España,Gran cuenta,Distribuidor,2024-07-18
+87,Casa de Comidas Sil,Galicia,Ourense,España,Hostelería,Distribuidor,2023-06-11
+88,Bar Sil,Internacional,Ciudad de México,México,Hostelería,Distribuidor,2026-02-05
+89,Bodega Sil,Norte,Gijón,España,Tienda gourmet,Comercial directo,2024-06-24
+90,Distribuciones Ulla,Galicia,Ourense,España,Distribuidor,Feria,2023-02-06
+91,Hipermercados Ulla,Galicia,A Coruña,España,Gran cuenta,Web,2026-01-21
+92,Mesón Ulla,Galicia,Santiago de Compostela,España,Hostelería,Distribuidor,2022-05-12
+93,Despensa Ulla,Internacional,Ciudad de México,México,Tienda gourmet,Web,2023-03-28
+94,Vinoteca Ulla,Centro,Toledo,España,Tienda gourmet,Feria,2024-06-01
+95,Gastrobar Ulla,Centro,Salamanca,España,Hostelería,Web,2026-03-04
+96,Superalimentación Ulla,Centro,Madrid,España,Gran cuenta,Web,2024-09-08
+97,Casa de Comidas Ulla,Sur,Las Palmas de Gran Canaria,España,Hostelería,Web,2023-01-17
+98,Economatos Ulla,Internacional,París,Francia,Gran cuenta,Comercial directo,2026-04-27
+99,Asador Ulla,Galicia,Santiago de Compostela,España,Hostelería,Web,2022-05-29
+100,Distribuciones Barbanza,Centro,Salamanca,España,Distribuidor,Feria,2023-04-04
+101,Taberna Barbanza,Este,Barcelona,España,Hostelería,Comercial directo,2023-08-09
+102,Mesón Barbanza,Galicia,A Coruña,España,Hostelería,Comercial directo,2023-11-14
+103,Marisquería Barbanza,Galicia,Vigo,España,Hostelería,Comercial directo,2025-02-13
+104,Vinoteca Barbanza,Sur,Cádiz,España,Tienda gourmet,Web,2022-10-31
+105,Tienda Gourmet Barbanza,Centro,Valladolid,España,Tienda gourmet,Distribuidor,2024-11-26
+106,Charcutería Barbanza,Galicia,Santiago de Compostela,España,Tienda gourmet,Comercial directo,2022-05-05
+107,Casa de Comidas Barbanza,Internacional,Burdeos,Francia,Hostelería,Web,2026-03-05
+108,Ultramar Barbanza,Galicia,Pontevedra,España,Tienda gourmet,Distribuidor,2022-02-27
+109,Asador Barbanza,Centro,Valladolid,España,Hostelería,Web,2025-01-13
+110,Delicatessen Cíes,Internacional,Burdeos,Francia,Tienda gourmet,Web,2022-02-06
+111,Taberna Cíes,Centro,Cáceres,España,Hostelería,Comercial directo,2024-05-19
+112,Colmado Cíes,Galicia,Santiago de Compostela,España,Tienda gourmet,Comercial directo,2023-05-27
+113,Cadena Cíes,Galicia,A Coruña,España,Gran cuenta,Feria,2024-12-13
+114,Suministros Hosteleros Cíes,Norte,Oviedo,España,Distribuidor,Distribuidor,2024-06-03
+115,Tienda Gourmet Cíes,Este,Palma,España,Tienda gourmet,Web,2024-02-29
+116,Hotel Cíes,Galicia,Pontevedra,España,Hostelería,Comercial directo,2024-04-10
+117,Mercado Cíes,Galicia,Santiago de Compostela,España,Tienda gourmet,Distribuidor,2026-03-25
+118,Ultramar Cíes,Sur,Granada,España,Tienda gourmet,Web,2023-06-26
+119,Bodega Cíes,Este,Palma,España,Tienda gourmet,Web,2024-01-28
+120,Delicatessen Ons,Centro,Salamanca,España,Tienda gourmet,Distribuidor,2023-08-21
+121,Ultramarinos Ons,Este,Barcelona,España,Tienda gourmet,Web,2022-09-06
+122,Colmado Ons,Sur,Málaga,España,Tienda gourmet,Comercial directo,2026-10-09
+123,Despensa Ons,Internacional,Ciudad de México,México,Tienda gourmet,Web,2022-06-09
+124,Vinoteca Ons,Internacional,Burdeos,Francia,Tienda gourmet,Feria,2026-03-10
+125,Tienda Gourmet Ons,Galicia,Santiago de Compostela,España,Tienda gourmet,Comercial directo,2025-09-16
+126,Logística Alimentaria Ons,Este,Zaragoza,España,Distribuidor,Distribuidor,2024-08-15
+127,Casa de Comidas Ons,Centro,Salamanca,España,Hostelería,Web,2025-05-15
+128,Bar Ons,Norte,Gijón,España,Hostelería,Web,2025-07-17
+129,Cooperativa Ons,Galicia,Pontevedra,España,Gran cuenta,Comercial directo,2026-01-12
+130,Supermercados Sálvora,Sur,Málaga,España,Gran cuenta,Comercial directo,2023-12-08
+131,Taberna Sálvora,Galicia,Lugo,España,Hostelería,Web,2024-01-25
+132,Mesón Sálvora,Este,Zaragoza,España,Hostelería,Distribuidor,2025-01-05
+133,Cash Sálvora,Norte,San Sebastián,España,Distribuidor,Comercial directo,2022-12-23
+134,Vinoteca Sálvora,Galicia,Pontevedra,España,Tienda gourmet,Distribuidor,2023-02-07
+135,Tienda Gourmet Sálvora,Galicia,Ourense,España,Tienda gourmet,Distribuidor,2023-02-13
+136,Charcutería Sálvora,Galicia,Pontevedra,España,Tienda gourmet,Comercial directo,2022-07-08
+137,Casa de Comidas Sálvora,Centro,Salamanca,España,Hostelería,Distribuidor,2024-05-17
+138,Bar Sálvora,Sur,Cádiz,España,Hostelería,Comercial directo,2026-01-05
+139,Provisiones Sálvora,Este,Alicante,España,Distribuidor,Comercial directo,2025-12-31
+140,Delicatessen Ortigueira,Galicia,Pontevedra,España,Tienda gourmet,Feria,2024-01-24
+141,Ultramarinos Ortigueira,Este,Barcelona,España,Tienda gourmet,Distribuidor,2025-06-12
+142,Mesón Ortigueira,Centro,Salamanca,España,Hostelería,Web,2022-11-04
+143,Despensa Ortigueira,Galicia,Lugo,España,Tienda gourmet,Feria,2024-06-15
+144,Vinoteca Ortigueira,Sur,Las Palmas de Gran Canaria,España,Tienda gourmet,Web,2025-08-26
+145,Tienda Gourmet Ortigueira,Galicia,Santiago de Compostela,España,Tienda gourmet,Web,2023-10-09
+146,Charcutería Ortigueira,Centro,Segovia,España,Tienda gourmet,Feria,2026-11-22
+147,Casa de Comidas Ortigueira,Norte,Oviedo,España,Hostelería,Comercial directo,2024-09-10
+148,Economatos Ortigueira,Centro,Valladolid,España,Gran cuenta,Feria,2026-11-18
+149,Bodega Ortigueira,Centro,Salamanca,España,Tienda gourmet,Comercial directo,2025-01-28
+150,Supermercados As Mariñas,Galicia,Vigo,España,Gran cuenta,Web,2025-05-15
+151,Taberna As Mariñas,Galicia,Ourense,España,Hostelería,Feria,2023-06-07
+152,Colmado As Mariñas,Este,Palma,España,Tienda gourmet,Comercial directo,2026-03-01
+153,Marisquería As Mariñas,Galicia,A Coruña,España,Hostelería,Feria,2023-03-17
+154,Pulpería As Mariñas,Centro,Valladolid,España,Hostelería,Comercial directo,2026-03-11
+155,Almacenes As Mariñas,Galicia,Vigo,España,Distribuidor,Distribuidor,2024-05-07
+156,Hotel As Mariñas,Norte,Pamplona,España,Hostelería,Feria,2022-10-07
+157,Mercado As Mariñas,Este,Girona,España,Tienda gourmet,Web,2026-01-01
+158,Gourmet Selección As Mariñas,Norte,Bilbao,España,Distribuidor,Distribuidor,2022-01-24
+159,Asador As Mariñas,Este,Barcelona,España,Hostelería,Feria,2025-12-18
+160,Restaurante Bergantiños,Galicia,A Coruña,España,Hostelería,Distribuidor,2023-04-03
+161,Comercial Bergantiños,Galicia,Lugo,España,Distribuidor,Comercial directo,2026-09-18
+162,Alimentación Bergantiños,Galicia,Vigo,España,Distribuidor,Comercial directo,2026-05-22
+163,Despensa Bergantiños,Este,Palma,España,Tienda gourmet,Distribuidor,2024-06-10
+164,Pulpería Bergantiños,Galicia,Pontevedra,España,Hostelería,Distribuidor,2022-10-05
+165,Tienda Gourmet Bergantiños,Galicia,Pontevedra,España,Tienda gourmet,Distribuidor,2022-08-31
+166,Charcutería Bergantiños,Sur,Málaga,España,Tienda gourmet,Web,2024-09-24
+167,Casa de Comidas Bergantiños,Este,Zaragoza,España,Hostelería,Comercial directo,2024-09-24
+168,Ultramar Bergantiños,Este,Girona,España,Tienda gourmet,Web,2023-07-14
+169,Bodega Bergantiños,Centro,Toledo,España,Tienda gourmet,Distribuidor,2024-01-05
+170,Delicatessen O Morrazo,Galicia,Santiago de Compostela,España,Tienda gourmet,Web,2025-08-24
+171,Hipermercados O Morrazo,Centro,Cáceres,España,Gran cuenta,Comercial directo,2023-08-30
+172,Mesón O Morrazo,Este,Palma,España,Hostelería,Comercial directo,2026-09-03
+173,Despensa O Morrazo,Galicia,Pontevedra,España,Tienda gourmet,Web,2023-10-13
+174,Pulpería O Morrazo,Galicia,Lugo,España,Hostelería,Web,2023-02-27
+175,Tienda Gourmet O Morrazo,Centro,Salamanca,España,Tienda gourmet,Distribuidor,2022-02-27
+176,Logística Alimentaria O Morrazo,Galicia,Santiago de Compostela,España,Distribuidor,Web,2026-03-13
+177,Casa de Comidas O Morrazo,Centro,Valladolid,España,Hostelería,Web,2025-04-29
+178,Gourmet Selección O Morrazo,Internacional,Burdeos,Francia,Distribuidor,Comercial directo,2024-04-28
+179,Asador O Morrazo,Este,Barcelona,España,Hostelería,Feria,2025-12-06
+180,Restaurante Lérez,Centro,Toledo,España,Hostelería,Comercial directo,2024-02-03
+181,Ultramarinos Lérez,Galicia,Ourense,España,Tienda gourmet,Distribuidor,2023-08-11
+182,Colmado Lérez,Sur,Málaga,España,Tienda gourmet,Comercial directo,2025-06-28
+183,Marisquería Lérez,Galicia,A Coruña,España,Hostelería,Web,2026-02-19
+184,Pulpería Lérez,Galicia,Lugo,España,Hostelería,Distribuidor,2026-10-31
+185,Almacenes Lérez,Este,Valencia,España,Distribuidor,Web,2022-11-28
+186,Charcutería Lérez,Centro,Toledo,España,Tienda gourmet,Web,2024-10-07
+187,Casa de Comidas Lérez,Centro,Valladolid,España,Hostelería,Web,2023-11-15
+188,Bar Lérez,Centro,Valladolid,España,Hostelería,Comercial directo,2024-09-25
+189,Bodega Lérez,Este,Palma,España,Tienda gourmet,Distribuidor,2025-03-12
+190,Delicatessen Tambre,Norte,Oviedo,España,Tienda gourmet,Feria,2022-01-18
+191,Ultramarinos Tambre,Sur,Granada,España,Tienda gourmet,Distribuidor,2022-08-29
+192,Colmado Tambre,Galicia,Ourense,España,Tienda gourmet,Distribuidor,2023-01-22
+193,Despensa Tambre,Centro,Madrid,España,Tienda gourmet,Web,2025-12-21
+194,Vinoteca Tambre,Este,Valencia,España,Tienda gourmet,Distribuidor,2024-12-02
+195,Gastrobar Tambre,Centro,Madrid,España,Hostelería,Web,2026-10-05
+196,Charcutería Tambre,Internacional,Londres,Reino Unido,Tienda gourmet,Comercial directo,2025-03-19
+197,Mercado Tambre,Galicia,Vigo,España,Tienda gourmet,Web,2025-09-22
+198,Ultramar Tambre,Internacional,Londres,Reino Unido,Tienda gourmet,Web,2025-11-10
+199,Bodega Tambre,Centro,Toledo,España,Tienda gourmet,Feria,2023-07-10
+200,Delicatessen Cantábrico,Sur,Cádiz,España,Tienda gourmet,Web,2022-01-11
+201,Taberna Cantábrico,Centro,Valladolid,España,Hostelería,Distribuidor,2023-12-14
+202,Mesón Cantábrico,Galicia,Vigo,España,Hostelería,Distribuidor,2026-04-22
+203,Cash Cantábrico,Galicia,Vigo,España,Distribuidor,Distribuidor,2026-03-31
+204,Pulpería Cantábrico,Sur,Granada,España,Hostelería,Comercial directo,2023-10-16
+205,Gastrobar Cantábrico,Internacional,Lisboa,Portugal,Hostelería,Feria,2024-06-01
+206,Charcutería Cantábrico,Galicia,Santiago de Compostela,España,Tienda gourmet,Comercial directo,2026-03-14
+207,Mercado Cantábrico,Centro,Toledo,España,Tienda gourmet,Distribuidor,2023-08-12
+208,Gourmet Selección Cantábrico,Centro,Salamanca,España,Distribuidor,Web,2024-09-27
+209,Bodega Cantábrico,Este,Palma,España,Tienda gourmet,Comercial directo,2023-11-06
+210,Distribuciones Mediterráneo,Galicia,Ourense,España,Distribuidor,Comercial directo,2024-10-24
+211,Ultramarinos Mediterráneo,Este,Alicante,España,Tienda gourmet,Feria,2025-10-02
+212,Colmado Mediterráneo,Galicia,A Coruña,España,Tienda gourmet,Distribuidor,2022-10-08
+213,Cash Mediterráneo,Centro,Toledo,España,Distribuidor,Web,2026-11-08
+214,Pulpería Mediterráneo,Este,Girona,España,Hostelería,Comercial directo,2026-10-22
+215,Tienda Gourmet Mediterráneo,Centro,Salamanca,España,Tienda gourmet,Web,2022-10-07
+216,Logística Alimentaria Mediterráneo,Centro,Toledo,España,Distribuidor,Comercial directo,2023-12-08
+217,Casa de Comidas Mediterráneo,Norte,Gijón,España,Hostelería,Web,2025-11-17
+218,Ultramar Mediterráneo,Internacional,Londres,Reino Unido,Tienda gourmet,Feria,2026-11-15
+219,Asador Mediterráneo,Galicia,A Coruña,España,Hostelería,Feria,2022-01-21
+220,Supermercados Retiro,Galicia,Ourense,España,Gran cuenta,Feria,2024-02-25
+221,Ultramarinos Retiro,Sur,Granada,España,Tienda gourmet,Comercial directo,2026-10-11
+222,Grupo Retiro,Centro,Madrid,España,Gran cuenta,Web,2022-06-07
+223,Despensa Retiro,Galicia,A Coruña,España,Tienda gourmet,Web,2025-05-14
+224,Pulpería Retiro,Galicia,Ourense,España,Hostelería,Comercial directo,2023-07-03
+225,Gastrobar Retiro,Sur,Málaga,España,Hostelería,Comercial directo,2025-04-10
+226,Charcutería Retiro,Internacional,Oporto,Portugal,Tienda gourmet,Distribuidor,2025-07-09
+227,Casa de Comidas Retiro,Internacional,París,Francia,Hostelería,Comercial directo,2023-04-15
+228,Gourmet Selección Retiro,Galicia,Pontevedra,España,Distribuidor,Comercial directo,2024-07-03
+229,Provisiones Retiro,Galicia,A Coruña,España,Distribuidor,Comercial directo,2024-09-04
+230,Restaurante Castellana,Norte,Bilbao,España,Hostelería,Web,2026-05-27
+231,Ultramarinos Castellana,Norte,Pamplona,España,Tienda gourmet,Feria,2024-03-02
+232,Colmado Castellana,Este,Girona,España,Tienda gourmet,Distribuidor,2024-11-22
+233,Cadena Castellana,Sur,Sevilla,España,Gran cuenta,Distribuidor,2026-08-17
+234,Vinoteca Castellana,Galicia,Santiago de Compostela,España,Tienda gourmet,Web,2024-11-16
+235,Gastrobar Castellana,Norte,Bilbao,España,Hostelería,Distribuidor,2024-05-23
+236,Hotel Castellana,Norte,Gijón,España,Hostelería,Comercial directo,2024-10-07
+237,Mercado Castellana,Centro,Cáceres,España,Tienda gourmet,Comercial directo,2024-08-21
+238,Bar Castellana,Internacional,Burdeos,Francia,Hostelería,Web,2024-07-24
+239,Asador Castellana,Galicia,Pontevedra,España,Hostelería,Web,2023-07-07
+240,Delicatessen Triana,Este,Zaragoza,España,Tienda gourmet,Distribuidor,2023-11-30
+241,Ultramarinos Triana,Galicia,Vigo,España,Tienda gourmet,Comercial directo,2025-09-26
+242,Colmado Triana,Centro,Segovia,España,Tienda gourmet,Comercial directo,2026-08-02
+243,Despensa Triana,Internacional,París,Francia,Tienda gourmet,Distribuidor,2022-09-13
+244,Vinoteca Triana,Este,Zaragoza,España,Tienda gourmet,Web,2022-09-14
+245,Gastrobar Triana,Galicia,Pontevedra,España,Hostelería,Web,2022-04-30
+246,Logística Alimentaria Triana,Centro,Madrid,España,Distribuidor,Web,2024-03-28
+247,Hipercentro Triana,Sur,Las Palmas de Gran Canaria,España,Gran cuenta,Comercial directo,2022-09-02
+248,Bar Triana,Sur,Málaga,España,Hostelería,Comercial directo,2024-04-02
+249,Asador Triana,Internacional,Ciudad de México,México,Hostelería,Feria,2026-03-21
+250,Delicatessen Albaicín,Centro,Segovia,España,Tienda gourmet,Comercial directo,2024-08-04
+251,Taberna Albaicín,Galicia,Lugo,España,Hostelería,Feria,2023-02-13
+252,Mesón Albaicín,Galicia,Santiago de Compostela,España,Hostelería,Comercial directo,2025-08-24
+253,Despensa Albaicín,Internacional,Burdeos,Francia,Tienda gourmet,Web,2026-11-08
+254,Suministros Hosteleros Albaicín,Galicia,Pontevedra,España,Distribuidor,Feria,2026-06-30
+255,Tienda Gourmet Albaicín,Norte,Bilbao,España,Tienda gourmet,Web,2026-05-04
+256,Charcutería Albaicín,Este,Alicante,España,Tienda gourmet,Distribuidor,2024-08-06
+257,Casa de Comidas Albaicín,Galicia,Pontevedra,España,Hostelería,Feria,2024-01-31
+258,Gourmet Selección Albaicín,Sur,Murcia,España,Distribuidor,Distribuidor,2026-10-10
+259,Asador Albaicín,Centro,Toledo,España,Hostelería,Feria,2025-07-13
+260,Restaurante Ebro,Galicia,Santiago de Compostela,España,Hostelería,Web,2025-01-29
+261,Taberna Ebro,Galicia,Lugo,España,Hostelería,Comercial directo,2026-06-30
+262,Colmado Ebro,Este,Palma,España,Tienda gourmet,Web,2022-04-29
+263,Despensa Ebro,Este,Valencia,España,Tienda gourmet,Comercial directo,2022-05-01
+264,Vinoteca Ebro,Sur,Málaga,España,Tienda gourmet,Web,2025-12-27
+265,Tienda Gourmet Ebro,Galicia,Vigo,España,Tienda gourmet,Distribuidor,2024-11-02
+266,Charcutería Ebro,Galicia,Pontevedra,España,Tienda gourmet,Comercial directo,2022-06-10
+267,Hipercentro Ebro,Este,Alicante,España,Gran cuenta,Web,2023-09-07
+268,Ultramar Ebro,Este,Zaragoza,España,Tienda gourmet,Comercial directo,2023-05-29
+269,Bodega Ebro,Sur,Málaga,España,Tienda gourmet,Web,2022-11-21
+270,Delicatessen Duero,Sur,Las Palmas de Gran Canaria,España,Tienda gourmet,Web,2025-06-24
+271,Taberna Duero,Norte,Oviedo,España,Hostelería,Web,2023-10-02
+272,Alimentación Duero,Este,Barcelona,España,Distribuidor,Web,2024-08-03
+273,Cash Duero,Norte,Oviedo,España,Distribuidor,Web,2024-06-18
+274,Pulpería Duero,Norte,Oviedo,España,Hostelería,Web,2024-12-06
+275,Gastrobar Duero,Sur,Las Palmas de Gran Canaria,España,Hostelería,Feria,2024-02-11
+276,Logística Alimentaria Duero,Galicia,Santiago de Compostela,España,Distribuidor,Distribuidor,2024-12-27
+277,Casa de Comidas Duero,Sur,Granada,España,Hostelería,Feria,2022-08-09
+278,Ultramar Duero,Este,Girona,España,Tienda gourmet,Feria,2024-06-27
+279,Provisiones Duero,Galicia,Vigo,España,Distribuidor,Feria,2023-07-24
+280,Delicatessen Tajo,Este,Palma,España,Tienda gourmet,Web,2026-08-15
+281,Taberna Tajo,Sur,Murcia,España,Hostelería,Distribuidor,2022-11-30
+282,Mesón Tajo,Galicia,A Coruña,España,Hostelería,Distribuidor,2024-11-01
+283,Cadena Tajo,Sur,Murcia,España,Gran cuenta,Web,2022-09-01
+284,Pulpería Tajo,Sur,Sevilla,España,Hostelería,Distribuidor,2025-08-29
+285,Tienda Gourmet Tajo,Galicia,Santiago de Compostela,España,Tienda gourmet,Web,2024-01-18
+286,Superalimentación Tajo,Centro,Valladolid,España,Gran cuenta,Web,2026-09-23
+287,Casa de Comidas Tajo,Galicia,Vigo,España,Hostelería,Web,2022-07-08
+288,Ultramar Tajo,Galicia,Santiago de Compostela,España,Tienda gourmet,Comercial directo,2023-10-16
+289,Asador Tajo,Galicia,Santiago de Compostela,España,Hostelería,Comercial directo,2024-09-02
+290,Restaurante Guadalquivir,Centro,Segovia,España,Hostelería,Web,2023-10-01
+291,Taberna Guadalquivir,Centro,Cáceres,España,Hostelería,Feria,2026-08-07
+292,Colmado Guadalquivir,Este,Girona,España,Tienda gourmet,Feria,2024-12-09
+293,Cash Guadalquivir,Galicia,Santiago de Compostela,España,Distribuidor,Web,2025-08-30
+294,Vinoteca Guadalquivir,Centro,Salamanca,España,Tienda gourmet,Distribuidor,2023-08-21
+295,Tienda Gourmet Guadalquivir,Sur,Cádiz,España,Tienda gourmet,Comercial directo,2026-06-06
+296,Hotel Guadalquivir,Centro,Valladolid,España,Hostelería,Distribuidor,2026-10-14
+297,Casa de Comidas Guadalquivir,Centro,Valladolid,España,Hostelería,Comercial directo,2023-08-15
+298,Ultramar Guadalquivir,Internacional,París,Francia,Tienda gourmet,Web,2024-05-20
+299,Cooperativa Guadalquivir,Este,Zaragoza,España,Gran cuenta,Distribuidor,2023-07-21
+300,Delicatessen Montjuïc,Centro,Valladolid,España,Tienda gourmet,Web,2024-09-05
+301,Comercial Montjuïc,Centro,Salamanca,España,Distribuidor,Comercial directo,2023-11-25
+302,Colmado Montjuïc,Norte,Gijón,España,Tienda gourmet,Distribuidor,2026-09-14
+303,Marisquería Montjuïc,Internacional,Lisboa,Portugal,Hostelería,Comercial directo,2025-06-19
+304,Pulpería Montjuïc,Norte,Gijón,España,Hostelería,Web,2025-01-07
+305,Almacenes Montjuïc,Galicia,Vigo,España,Distribuidor,Comercial directo,2024-03-07
+306,Logística Alimentaria Montjuïc,Centro,Cáceres,España,Distribuidor,Comercial directo,2024-07-10
+307,Casa de Comidas Montjuïc,Galicia,Santiago de Compostela,España,Hostelería,Comercial directo,2025-07-07
+308,Bar Montjuïc,Este,Barcelona,España,Hostelería,Comercial directo,2024-05-04
+309,Provisiones Montjuïc,Sur,Las Palmas de Gran Canaria,España,Distribuidor,Web,2023-02-03
+310,Restaurante Turia,Galicia,Pontevedra,España,Hostelería,Web,2026-04-04
+311,Ultramarinos Turia,Galicia,Lugo,España,Tienda gourmet,Distribuidor,2026-09-04
+312,Mesón Turia,Internacional,Ciudad de México,México,Hostelería,Feria,2022-01-09
+313,Despensa Turia,Sur,Málaga,España,Tienda gourmet,Feria,2023-04-01
+314,Pulpería Turia,Galicia,A Coruña,España,Hostelería,Feria,2025-04-04
+315,Tienda Gourmet Turia,Centro,Valladolid,España,Tienda gourmet,Comercial directo,2023-12-20
+316,Charcutería Turia,Centro,Cáceres,España,Tienda gourmet,Feria,2026-09-13
+317,Mercado Turia,Centro,Valladolid,España,Tienda gourmet,Comercial directo,2025-02-21
+318,Economatos Turia,Este,Alicante,España,Gran cuenta,Comercial directo,2025-02-25
+319,Asador Turia,Galicia,Pontevedra,España,Hostelería,Distribuidor,2025-08-16
+320,Restaurante Alhambra,Galicia,Ourense,España,Hostelería,Web,2024-12-25
+321,Comercial Alhambra,Galicia,Pontevedra,España,Distribuidor,Comercial directo,2023-11-03
+322,Mesón Alhambra,Galicia,Pontevedra,España,Hostelería,Web,2026-10-12
+323,Cash Alhambra,Sur,Las Palmas de Gran Canaria,España,Distribuidor,Distribuidor,2026-10-28
+324,Vinoteca Alhambra,Centro,Cáceres,España,Tienda gourmet,Distribuidor,2022-12-20
+325,Tienda Gourmet Alhambra,Centro,Madrid,España,Tienda gourmet,Web,2022-10-17
+326,Logística Alimentaria Alhambra,Sur,Las Palmas de Gran Canaria,España,Distribuidor,Feria,2026-05-06
+327,Casa de Comidas Alhambra,Centro,Madrid,España,Hostelería,Distribuidor,2026-09-04
+328,Gourmet Selección Alhambra,Galicia,Vigo,España,Distribuidor,Comercial directo,2025-03-20
+329,Bodega Alhambra,Internacional,Oporto,Portugal,Tienda gourmet,Comercial directo,2024-09-27
+330,Delicatessen Giralda,Norte,San Sebastián,España,Tienda gourmet,Web,2026-03-23
+331,Taberna Giralda,Norte,Bilbao,España,Hostelería,Comercial directo,2023-07-12
+332,Colmado Giralda,Este,Alicante,España,Tienda gourmet,Web,2022-08-28
+333,Despensa Giralda,Galicia,Pontevedra,España,Tienda gourmet,Web,2026-02-23
+334,Vinoteca Giralda,Galicia,A Coruña,España,Tienda gourmet,Distribuidor,2026-06-11
+335,Tienda Gourmet Giralda,Este,Palma,España,Tienda gourmet,Comercial directo,2025-07-19
+336,Logística Alimentaria Giralda,Galicia,Santiago de Compostela,España,Distribuidor,Feria,2025-07-28
+337,Mercado Giralda,Norte,Santander,España,Tienda gourmet,Web,2025-06-22
+338,Gourmet Selección Giralda,Centro,Cáceres,España,Distribuidor,Comercial directo,2026-06-01
+339,Bodega Giralda,Internacional,Ciudad de México,México,Tienda gourmet,Feria,2026-11-02
+340,Delicatessen Sierra,Centro,Salamanca,España,Tienda gourmet,Web,2025-02-19
+341,Ultramarinos Sierra,Centro,Valladolid,España,Tienda gourmet,Web,2023-12-14
+342,Mesón Sierra,Centro,Salamanca,España,Hostelería,Web,2022-12-13
+343,Marisquería Sierra,Centro,Madrid,España,Hostelería,Web,2022-04-17
+344,Suministros Hosteleros Sierra,Sur,Cádiz,España,Distribuidor,Feria,2023-03-25
+345,Gastrobar Sierra,Sur,Sevilla,España,Hostelería,Comercial directo,2026-06-06
+346,Hotel Sierra,Centro,Valladolid,España,Hostelería,Comercial directo,2025-01-30
+347,Casa de Comidas Sierra,Internacional,Lisboa,Portugal,Hostelería,Web,2025-03-06
+348,Bar Sierra,Centro,Toledo,España,Hostelería,Distribuidor,2023-01-08
+349,Asador Sierra,Este,Barcelona,España,Hostelería,Distribuidor,2023-06-05
+350,Restaurante Vega,Centro,Madrid,España,Hostelería,Distribuidor,2024-02-17
+351,Taberna Vega,Centro,Segovia,España,Hostelería,Distribuidor,2023-01-03
+352,Mesón Vega,Galicia,A Coruña,España,Hostelería,Distribuidor,2025-03-07
+353,Cash Vega,Sur,Murcia,España,Distribuidor,Web,2023-02-19
+354,Pulpería Vega,Galicia,Vigo,España,Hostelería,Distribuidor,2025-11-11
+355,Gastrobar Vega,Sur,Málaga,España,Hostelería,Web,2022-04-08
+356,Logística Alimentaria Vega,Internacional,Lisboa,Portugal,Distribuidor,Web,2024-11-23
+357,Importaciones Vega,Galicia,Vigo,España,Distribuidor,Web,2022-06-13
+358,Gourmet Selección Vega,Galicia,Lugo,España,Distribuidor,Comercial directo,2023-04-06
+359,Provisiones Vega,Internacional,Lisboa,Portugal,Distribuidor,Distribuidor,2023-03-16
+360,Restaurante Ribera,Galicia,Vigo,España,Hostelería,Web,2022-08-03
+361,Ultramarinos Ribera,Galicia,Lugo,España,Tienda gourmet,Distribuidor,2022-10-13
+362,Colmado Ribera,Internacional,París,Francia,Tienda gourmet,Web,2023-08-22
+363,Cash Ribera,Galicia,Ourense,España,Distribuidor,Web,2025-02-21
+364,Vinoteca Ribera,Galicia,Lugo,España,Tienda gourmet,Web,2026-06-08
+365,Tienda Gourmet Ribera,Sur,Málaga,España,Tienda gourmet,Distribuidor,2025-08-06
+366,Charcutería Ribera,Centro,Cáceres,España,Tienda gourmet,Comercial directo,2023-01-03
+367,Casa de Comidas Ribera,Internacional,París,Francia,Hostelería,Comercial directo,2026-09-23
+368,Ultramar Ribera,Centro,Toledo,España,Tienda gourmet,Feria,2024-06-06
+369,Asador Ribera,Galicia,Ourense,España,Hostelería,Web,2025-05-05
+370,Distribuciones Prado,Galicia,Pontevedra,España,Distribuidor,Feria,2026-08-11
+371,Ultramarinos Prado,Sur,Málaga,España,Tienda gourmet,Comercial directo,2022-10-04
+372,Colmado Prado,Sur,Cádiz,España,Tienda gourmet,Distribuidor,2026-07-29
+373,Cash Prado,Centro,Cáceres,España,Distribuidor,Comercial directo,2023-05-25
+374,Vinoteca Prado,Sur,Sevilla,España,Tienda gourmet,Feria,2026-05-28
+375,Almacenes Prado,Sur,Sevilla,España,Distribuidor,Comercial directo,2024-08-30
+376,Charcutería Prado,Internacional,Lisboa,Portugal,Tienda gourmet,Distribuidor,2022-07-27
+377,Casa de Comidas Prado,Galicia,A Coruña,España,Hostelería,Web,2025-05-21
+378,Bar Prado,Galicia,Ourense,España,Hostelería,Distribuidor,2024-12-29
+379,Bodega Prado,Galicia,Ourense,España,Tienda gourmet,Web,2026-02-17
+380,Delicatessen Mirador,Centro,Toledo,España,Tienda gourmet,Comercial directo,2024-05-04
+381,Ultramarinos Mirador,Galicia,Santiago de Compostela,España,Tienda gourmet,Distribuidor,2023-02-19
+382,Colmado Mirador,Este,Valencia,España,Tienda gourmet,Web,2024-10-20
+383,Marisquería Mirador,Galicia,Vigo,España,Hostelería,Comercial directo,2023-07-26
+384,Vinoteca Mirador,Internacional,Lisboa,Portugal,Tienda gourmet,Comercial directo,2023-08-21
+385,Tienda Gourmet Mirador,Centro,Cáceres,España,Tienda gourmet,Comercial directo,2024-09-15
+386,Hotel Mirador,Centro,Madrid,España,Hostelería,Web,2025-03-28
+387,Mercado Mirador,Galicia,Vigo,España,Tienda gourmet,Web,2024-01-19
+388,Gourmet Selección Mirador,Este,Palma,España,Distribuidor,Distribuidor,2025-04-01
+389,Asador Mirador,Sur,Sevilla,España,Hostelería,Distribuidor,2025-08-03
+390,Delicatessen Horizonte,Centro,Valladolid,España,Tienda gourmet,Distribuidor,2024-02-10
+391,Taberna Horizonte,Galicia,Ourense,España,Hostelería,Comercial directo,2023-04-22
+392,Colmado Horizonte,Galicia,Pontevedra,España,Tienda gourmet,Distribuidor,2022-07-17
+393,Cadena Horizonte,Norte,Oviedo,España,Gran cuenta,Distribuidor,2025-08-07
+394,Vinoteca Horizonte,Norte,Oviedo,España,Tienda gourmet,Web,2024-12-10
+395,Gastrobar Horizonte,Norte,Santander,España,Hostelería,Comercial directo,2023-02-25
+396,Hotel Horizonte,Sur,Málaga,España,Hostelería,Distribuidor,2024-10-26
+397,Casa de Comidas Horizonte,Galicia,Ourense,España,Hostelería,Web,2025-01-27
+398,Gourmet Selección Horizonte,Este,Barcelona,España,Distribuidor,Distribuidor,2026-07-23
+399,Bodega Horizonte,Este,Valencia,España,Tienda gourmet,Distribuidor,2023-04-30
+400,Restaurante Aurora,Este,Valencia,España,Hostelería,Web,2023-01-02
+401,Taberna Aurora,Centro,Toledo,España,Hostelería,Web,2026-11-09
+402,Mesón Aurora,Este,Barcelona,España,Hostelería,Distribuidor,2026-07-13
+403,Marisquería Aurora,Sur,Sevilla,España,Hostelería,Comercial directo,2026-07-04
+404,Vinoteca Aurora,Centro,Toledo,España,Tienda gourmet,Distribuidor,2025-05-17
+405,Almacenes Aurora,Sur,Málaga,España,Distribuidor,Web,2023-01-30
+406,Logística Alimentaria Aurora,Norte,San Sebastián,España,Distribuidor,Distribuidor,2023-02-24
+407,Importaciones Aurora,Centro,Toledo,España,Distribuidor,Feria,2025-11-26
+408,Bar Aurora,Centro,Valladolid,España,Hostelería,Web,2022-08-21
+409,Provisiones Aurora,Galicia,Lugo,España,Distribuidor,Web,2023-04-28
+410,Delicatessen Faro,Sur,Cádiz,España,Tienda gourmet,Comercial directo,2025-08-08
+411,Hipermercados Faro,Internacional,Burdeos,Francia,Gran cuenta,Feria,2022-02-12
+412,Colmado Faro,Sur,Las Palmas de Gran Canaria,España,Tienda gourmet,Comercial directo,2024-12-29
+413,Marisquería Faro,Galicia,A Coruña,España,Hostelería,Web,2026-08-28
+414,Pulpería Faro,Galicia,Lugo,España,Hostelería,Distribuidor,2022-09-18
+415,Tienda Gourmet Faro,Este,Girona,España,Tienda gourmet,Web,2024-05-21
+416,Superalimentación Faro,Internacional,Lisboa,Portugal,Gran cuenta,Comercial directo,2023-12-19
+417,Casa de Comidas Faro,Galicia,Santiago de Compostela,España,Hostelería,Web,2023-06-14
+418,Bar Faro,Centro,Segovia,España,Hostelería,Web,2023-06-11
+419,Cooperativa Faro,Galicia,A Coruña,España,Gran cuenta,Comercial directo,2025-06-12
+420,Supermercados Puerto,Este,Barcelona,España,Gran cuenta,Comercial directo,2026-06-14
+421,Taberna Puerto,Sur,Murcia,España,Hostelería,Web,2026-06-02
+422,Mesón Puerto,Centro,Madrid,España,Hostelería,Distribuidor,2024-06-03
+423,Despensa Puerto,Sur,Sevilla,España,Tienda gourmet,Web,2023-02-05
+424,Suministros Hosteleros Puerto,Centro,Salamanca,España,Distribuidor,Web,2024-09-30
+425,Tienda Gourmet Puerto,Centro,Segovia,España,Tienda gourmet,Web,2026-01-18
+426,Charcutería Puerto,Centro,Segovia,España,Tienda gourmet,Web,2025-03-22
+427,Mercado Puerto,Sur,Sevilla,España,Tienda gourmet,Web,2025-10-26
+428,Ultramar Puerto,Centro,Segovia,España,Tienda gourmet,Web,2022-08-21
+429,Asador Puerto,Internacional,Londres,Reino Unido,Hostelería,Feria,2023-06-04
+430,Delicatessen Lonja,Norte,Pamplona,España,Tienda gourmet,Feria,2024-09-08
+431,Taberna Lonja,Centro,Salamanca,España,Hostelería,Web,2026-10-13
+432,Colmado Lonja,Centro,Cáceres,España,Tienda gourmet,Feria,2025-11-17
+433,Despensa Lonja,Galicia,Ourense,España,Tienda gourmet,Comercial directo,2024-05-23
+434,Suministros Hosteleros Lonja,Centro,Valladolid,España,Distribuidor,Comercial directo,2024-08-09
+435,Almacenes Lonja,Internacional,Londres,Reino Unido,Distribuidor,Distribuidor,2022-03-06
+436,Charcutería Lonja,Este,Alicante,España,Tienda gourmet,Comercial directo,2024-03-28
+437,Casa de Comidas Lonja,Este,Valencia,España,Hostelería,Feria,2025-03-13
+438,Bar Lonja,Sur,Sevilla,España,Hostelería,Web,2024-03-11
+439,Bodega Lonja,Galicia,A Coruña,España,Tienda gourmet,Feria,2022-01-10
+440,Supermercados Muelle,Centro,Toledo,España,Gran cuenta,Comercial directo,2022-06-04
+441,Taberna Muelle,Centro,Cáceres,España,Hostelería,Distribuidor,2026-10-19
+442,Alimentación Muelle,Norte,Bilbao,España,Distribuidor,Comercial directo,2026-04-21
+443,Marisquería Muelle,Galicia,Lugo,España,Hostelería,Web,2023-12-24
+444,Vinoteca Muelle,Internacional,Londres,Reino Unido,Tienda gourmet,Web,2026-04-24
+445,Gastrobar Muelle,Internacional,Londres,Reino Unido,Hostelería,Distribuidor,2023-07-19
+446,Charcutería Muelle,Galicia,Vigo,España,Tienda gourmet,Web,2022-12-22
+447,Mercado Muelle,Este,Zaragoza,España,Tienda gourmet,Comercial directo,2022-04-27
+448,Bar Muelle,Sur,Cádiz,España,Hostelería,Comercial directo,2026-10-05
+449,Cooperativa Muelle,Norte,Bilbao,España,Gran cuenta,Web,2026-06-04
+450,Distribuciones Marea,Internacional,Lisboa,Portugal,Distribuidor,Web,2022-05-15
+451,Ultramarinos Marea,Galicia,Lugo,España,Tienda gourmet,Web,2025-10-20
+452,Mesón Marea,Centro,Toledo,España,Hostelería,Web,2023-09-05
+453,Cash Marea,Galicia,Pontevedra,España,Distribuidor,Web,2026-03-27
+454,Pulpería Marea,Galicia,Vigo,España,Hostelería,Comercial directo,2025-10-25
+455,Tienda Gourmet Marea,Este,Alicante,España,Tienda gourmet,Web,2024-12-02
+456,Hotel Marea,Este,Palma,España,Hostelería,Comercial directo,2024-01-22
+457,Importaciones Marea,Centro,Cáceres,España,Distribuidor,Web,2023-09-04
+458,Ultramar Marea,Este,Valencia,España,Tienda gourmet,Comercial directo,2022-10-21
+459,Provisiones Marea,Galicia,Vigo,España,Distribuidor,Distribuidor,2023-07-23
+460,Delicatessen Brisa,Centro,Madrid,España,Tienda gourmet,Comercial directo,2022-08-29
+461,Ultramarinos Brisa,Sur,Granada,España,Tienda gourmet,Comercial directo,2026-03-12
+462,Grupo Brisa,Galicia,A Coruña,España,Gran cuenta,Web,2024-07-27
+463,Despensa Brisa,Galicia,Ourense,España,Tienda gourmet,Feria,2023-08-14
+464,Mercados Brisa,Centro,Salamanca,España,Gran cuenta,Comercial directo,2023-11-18
+465,Tienda Gourmet Brisa,Internacional,Ciudad de México,México,Tienda gourmet,Distribuidor,2023-03-22
+466,Hotel Brisa,Centro,Valladolid,España,Hostelería,Web,2026-01-18
+467,Hipercentro Brisa,Centro,Valladolid,España,Gran cuenta,Web,2022-07-10
+468,Bar Brisa,Centro,Valladolid,España,Hostelería,Comercial directo,2026-08-25
+469,Bodega Brisa,Internacional,París,Francia,Tienda gourmet,Web,2025-12-30
+470,Delicatessen Ancla,Galicia,A Coruña,España,Tienda gourmet,Web,2024-06-17
+471,Ultramarinos Ancla,Norte,Gijón,España,Tienda gourmet,Web,2022-02-10
+472,Colmado Ancla,Sur,Las Palmas de Gran Canaria,España,Tienda gourmet,Distribuidor,2026-05-09
+473,Despensa Ancla,Galicia,Ourense,España,Tienda gourmet,Comercial directo,2025-11-01
+474,Suministros Hosteleros Ancla,Galicia,Lugo,España,Distribuidor,Web,2024-03-17
+475,Gastrobar Ancla,Galicia,Lugo,España,Hostelería,Comercial directo,2025-08-28
+476,Hotel Ancla,Este,Palma,España,Hostelería,Comercial directo,2026-01-23
+477,Casa de Comidas Ancla,Centro,Toledo,España,Hostelería,Web,2023-01-01
+478,Ultramar Ancla,Galicia,Santiago de Compostela,España,Tienda gourmet,Web,2022-05-15
+479,Asador Ancla,Sur,Sevilla,España,Hostelería,Feria,2025-10-11
+480,Delicatessen Timón,Norte,Pamplona,España,Tienda gourmet,Web,2022-05-06
+481,Ultramarinos Timón,Galicia,Santiago de Compostela,España,Tienda gourmet,Web,2025-03-25
+482,Mesón Timón,Internacional,Oporto,Portugal,Hostelería,Distribuidor,2026-10-06
+483,Despensa Timón,Galicia,A Coruña,España,Tienda gourmet,Feria,2025-03-28
+484,Suministros Hosteleros Timón,Este,Girona,España,Distribuidor,Distribuidor,2022-06-19
+485,Gastrobar Timón,Norte,Bilbao,España,Hostelería,Web,2022-11-13
+486,Hotel Timón,Centro,Cáceres,España,Hostelería,Web,2025-01-30
+487,Casa de Comidas Timón,Galicia,Lugo,España,Hostelería,Web,2025-03-09
+488,Ultramar Timón,Galicia,Pontevedra,España,Tienda gourmet,Distribuidor,2024-02-15
+489,Bodega Timón,Este,Barcelona,España,Tienda gourmet,Web,2025-04-17
+490,Delicatessen Velero,Centro,Salamanca,España,Tienda gourmet,Distribuidor,2023-04-17
+491,Ultramarinos Velero,Centro,Segovia,España,Tienda gourmet,Web,2022-12-13
+492,Colmado Velero,Galicia,Santiago de Compostela,España,Tienda gourmet,Distribuidor,2026-07-31
+493,Cash Velero,Galicia,Lugo,España,Distribuidor,Web,2022-01-18
+494,Pulpería Velero,Norte,San Sebastián,España,Hostelería,Web,2022-11-17
+495,Gastrobar Velero,Este,Alicante,España,Hostelería,Web,2025-08-12
+496,Charcutería Velero,Centro,Valladolid,España,Tienda gourmet,Feria,2024-02-23
+497,Casa de Comidas Velero,Galicia,Lugo,España,Hostelería,Feria,2025-12-26
+498,Ultramar Velero,Sur,Granada,España,Tienda gourmet,Feria,2022-11-30
+499,Bodega Velero,Galicia,Santiago de Compostela,España,Tienda gourmet,Comercial directo,2022-09-25
+500,Distribuciones Gaviota,Este,Alicante,España,Distribuidor,Web,2026-05-21
+501,Taberna Gaviota,Internacional,Lisboa,Portugal,Hostelería,Comercial directo,2024-06-20
+502,Colmado Gaviota,Centro,Salamanca,España,Tienda gourmet,Distribuidor,2025-03-11
+503,Marisquería Gaviota,Centro,Madrid,España,Hostelería,Comercial directo,2024-09-06
+504,Vinoteca Gaviota,Este,Palma,España,Tienda gourmet,Web,2026-04-04
+505,Gastrobar Gaviota,Centro,Salamanca,España,Hostelería,Web,2025-01-27
+506,Hotel Gaviota,Este,Palma,España,Hostelería,Web,2024-01-11
+507,Mercado Gaviota,Centro,Valladolid,España,Tienda gourmet,Web,2022-08-18
+508,Bar Gaviota,Este,Zaragoza,España,Hostelería,Web,2023-01-13
+509,Provisiones Gaviota,Internacional,Ciudad de México,México,Distribuidor,Distribuidor,2025-01-22
+510,Delicatessen Caracola,Galicia,A Coruña,España,Tienda gourmet,Web,2025-10-05
+511,Taberna Caracola,Galicia,Ourense,España,Hostelería,Web,2023-01-02
+512,Colmado Caracola,Este,Barcelona,España,Tienda gourmet,Web,2025-09-16
+513,Marisquería Caracola,Galicia,Lugo,España,Hostelería,Feria,2022-07-14
+514,Vinoteca Caracola,Centro,Salamanca,España,Tienda gourmet,Web,2025-03-29
+515,Gastrobar Caracola,Este,Barcelona,España,Hostelería,Web,2022-03-26
+516,Hotel Caracola,Norte,Oviedo,España,Hostelería,Web,2025-03-13
+517,Importaciones Caracola,Galicia,A Coruña,España,Distribuidor,Comercial directo,2023-03-26
+518,Economatos Caracola,Este,Barcelona,España,Gran cuenta,Web,2026-08-19
+519,Asador Caracola,Norte,Santander,España,Hostelería,Comercial directo,2023-06-16
+520,Restaurante Coral,Centro,Valladolid,España,Hostelería,Web,2023-07-15
+521,Taberna Coral,Este,Barcelona,España,Hostelería,Web,2026-08-25
+522,Grupo Coral,Este,Girona,España,Gran cuenta,Feria,2026-11-24
+523,Despensa Coral,Galicia,Lugo,España,Tienda gourmet,Web,2023-11-08
+524,Pulpería Coral,Galicia,Lugo,España,Hostelería,Web,2023-03-26
+525,Tienda Gourmet Coral,Norte,Santander,España,Tienda gourmet,Distribuidor,2026-05-28
+526,Superalimentación Coral,Galicia,Pontevedra,España,Gran cuenta,Feria,2024-10-18
+527,Mercado Coral,Internacional,París,Francia,Tienda gourmet,Web,2022-05-09
+528,Gourmet Selección Coral,Galicia,Vigo,España,Distribuidor,Comercial directo,2026-03-07
+529,Provisiones Coral,Este,Zaragoza,España,Distribuidor,Web,2025-09-15
+530,Delicatessen Perla,Centro,Valladolid,España,Tienda gourmet,Comercial directo,2023-02-11
+531,Taberna Perla,Centro,Toledo,España,Hostelería,Comercial directo,2023-04-10
+532,Mesón Perla,Sur,Las Palmas de Gran Canaria,España,Hostelería,Comercial directo,2025-07-04
+533,Cadena Perla,Galicia,Santiago de Compostela,España,Gran cuenta,Comercial directo,2022-01-09
+534,Pulpería Perla,Este,Girona,España,Hostelería,Web,2024-10-08
+535,Tienda Gourmet Perla,Internacional,Londres,Reino Unido,Tienda gourmet,Distribuidor,2024-03-28
+536,Hotel Perla,Internacional,Burdeos,Francia,Hostelería,Web,2026-04-12
+537,Casa de Comidas Perla,Centro,Segovia,España,Hostelería,Distribuidor,2023-06-08
+538,Bar Perla,Galicia,Pontevedra,España,Hostelería,Web,2025-02-15
+539,Asador Perla,Galicia,Santiago de Compostela,España,Hostelería,Comercial directo,2025-03-28
+540,Delicatessen Alameda,Internacional,Lisboa,Portugal,Tienda gourmet,Web,2023-07-14
+541,Taberna Alameda,Galicia,Vigo,España,Hostelería,Web,2024-04-23
+542,Colmado Alameda,Galicia,Ourense,España,Tienda gourmet,Comercial directo,2023-03-20
+543,Despensa Alameda,Centro,Segovia,España,Tienda gourmet,Web,2022-08-11
+544,Vinoteca Alameda,Este,Valencia,España,Tienda gourmet,Web,2026-02-27
+545,Tienda Gourmet Alameda,Centro,Toledo,España,Tienda gourmet,Comercial directo,2024-10-30
+546,Charcutería Alameda,Internacional,Lisboa,Portugal,Tienda gourmet,Web,2022-04-26
+547,Casa de Comidas Alameda,Centro,Cáceres,España,Hostelería,Comercial directo,2022-07-04
+548,Gourmet Selección Alameda,Galicia,Vigo,España,Distribuidor,Feria,2022-06-28
+549,Provisiones Alameda,Sur,Sevilla,España,Distribuidor,Web,2026-04-18
+550,Distribuciones Plaza Mayor,Centro,Cáceres,España,Distribuidor,Distribuidor,2026-03-02
+551,Ultramarinos Plaza Mayor,Este,Zaragoza,España,Tienda gourmet,Web,2023-08-26
+552,Mesón Plaza Mayor,Galicia,Ourense,España,Hostelería,Comercial directo,2026-08-08
+553,Marisquería Plaza Mayor,Galicia,Vigo,España,Hostelería,Feria,2022-10-30
+554,Pulpería Plaza Mayor,Centro,Madrid,España,Hostelería,Distribuidor,2026-01-13
+555,Gastrobar Plaza Mayor,Galicia,A Coruña,España,Hostelería,Comercial directo,2022-04-30
+556,Charcutería Plaza Mayor,Centro,Segovia,España,Tienda gourmet,Comercial directo,2025-11-11
+557,Mercado Plaza Mayor,Norte,Bilbao,España,Tienda gourmet,Web,2024-09-28
+558,Ultramar Plaza Mayor,Galicia,Pontevedra,España,Tienda gourmet,Web,2022-06-06
+559,Cooperativa Plaza Mayor,Sur,Las Palmas de Gran Canaria,España,Gran cuenta,Web,2022-01-30
+560,Supermercados La Esquina,Internacional,Londres,Reino Unido,Gran cuenta,Comercial directo,2022-04-10
+561,Ultramarinos La Esquina,Este,Palma,España,Tienda gourmet,Comercial directo,2023-10-21
+562,Mesón La Esquina,Este,Alicante,España,Hostelería,Distribuidor,2025-08-24
+563,Despensa La Esquina,Norte,Bilbao,España,Tienda gourmet,Distribuidor,2026-05-05
+564,Pulpería La Esquina,Galicia,A Coruña,España,Hostelería,Comercial directo,2024-09-20
+565,Gastrobar La Esquina,Norte,Gijón,España,Hostelería,Web,2024-09-20
+566,Superalimentación La Esquina,Norte,Pamplona,España,Gran cuenta,Distribuidor,2023-02-10
+567,Importaciones La Esquina,Sur,Sevilla,España,Distribuidor,Feria,2025-05-11
+568,Economatos La Esquina,Internacional,Burdeos,Francia,Gran cuenta,Comercial directo,2024-09-30
+569,Provisiones La Esquina,Internacional,Oporto,Portugal,Distribuidor,Web,2023-02-23
+570,Supermercados El Rincón,Sur,Granada,España,Gran cuenta,Web,2023-07-11
+571,Taberna El Rincón,Este,Girona,España,Hostelería,Web,2026-05-31
+572,Mesón El Rincón,Sur,Las Palmas de Gran Canaria,España,Hostelería,Comercial directo,2023-02-22
+573,Despensa El Rincón,Galicia,Vigo,España,Tienda gourmet,Comercial directo,2022-11-30
+574,Vinoteca El Rincón,Centro,Valladolid,España,Tienda gourmet,Distribuidor,2025-01-21
+575,Tienda Gourmet El Rincón,Norte,San Sebastián,España,Tienda gourmet,Distribuidor,2023-02-15
+576,Logística Alimentaria El Rincón,Galicia,Pontevedra,España,Distribuidor,Comercial directo,2022-02-26
+577,Casa de Comidas El Rincón,Internacional,París,Francia,Hostelería,Feria,2026-03-30
+578,Gourmet Selección El Rincón,Este,Girona,España,Distribuidor,Feria,2024-05-01
+579,Bodega El Rincón,Sur,Granada,España,Tienda gourmet,Distribuidor,2025-10-29
+580,Delicatessen San Juan,Norte,Pamplona,España,Tienda gourmet,Distribuidor,2024-12-17
+581,Hipermercados San Juan,Centro,Valladolid,España,Gran cuenta,Comercial directo,2024-10-11
+582,Grupo San Juan,Sur,Murcia,España,Gran cuenta,Web,2025-10-14
+583,Marisquería San Juan,Sur,Las Palmas de Gran Canaria,España,Hostelería,Comercial directo,2026-09-12
+584,Vinoteca San Juan,Internacional,Lisboa,Portugal,Tienda gourmet,Feria,2023-02-08
+585,Gastrobar San Juan,Galicia,Santiago de Compostela,España,Hostelería,Comercial directo,2025-03-22
+586,Hotel San Juan,Galicia,Santiago de Compostela,España,Hostelería,Comercial directo,2026-02-05
+587,Importaciones San Juan,Este,Palma,España,Distribuidor,Web,2026-05-08
+588,Ultramar San Juan,Este,Palma,España,Tienda gourmet,Web,2024-09-15
+589,Bodega San Juan,Galicia,Ourense,España,Tienda gourmet,Comercial directo,2025-04-29
+590,Restaurante Santiago,Centro,Toledo,España,Hostelería,Distribuidor,2026-03-24
+591,Ultramarinos Santiago,Sur,Málaga,España,Tienda gourmet,Comercial directo,2026-03-29
+592,Alimentación Santiago,Este,Palma,España,Distribuidor,Web,2026-08-12
+593,Despensa Santiago,Sur,Las Palmas de Gran Canaria,España,Tienda gourmet,Web,2022-08-26
+594,Pulpería Santiago,Centro,Cáceres,España,Hostelería,Distribuidor,2023-08-04
+595,Gastrobar Santiago,Norte,Gijón,España,Hostelería,Web,2022-08-05
+596,Hotel Santiago,Este,Alicante,España,Hostelería,Distribuidor,2025-05-01
+597,Casa de Comidas Santiago,Galicia,Lugo,España,Hostelería,Web,2025-04-08
+598,Economatos Santiago,Internacional,Londres,Reino Unido,Gran cuenta,Web,2026-06-25
+599,Bodega Santiago,Galicia,Lugo,España,Tienda gourmet,Comercial directo,2026-04-23
+600,Restaurante San Marcos,Sur,Cádiz,España,Hostelería,Comercial directo,2025-06-27
+601,Ultramarinos San Marcos,Galicia,Ourense,España,Tienda gourmet,Web,2024-08-03
+602,Grupo San Marcos,Galicia,A Coruña,España,Gran cuenta,Comercial directo,2023-01-30
+603,Cash San Marcos,Este,Valencia,España,Distribuidor,Comercial directo,2024-07-03
+604,Suministros Hosteleros San Marcos,Centro,Segovia,España,Distribuidor,Comercial directo,2026-08-17
+605,Tienda Gourmet San Marcos,Norte,Oviedo,España,Tienda gourmet,Distribuidor,2026-07-26
+606,Charcutería San Marcos,Centro,Valladolid,España,Tienda gourmet,Web,2024-08-08
+607,Mercado San Marcos,Internacional,Oporto,Portugal,Tienda gourmet,Distribuidor,2026-07-15
+608,Ultramar San Marcos,Norte,Gijón,España,Tienda gourmet,Distribuidor,2022-09-27
+609,Bodega San Marcos,Este,Valencia,España,Tienda gourmet,Feria,2022-02-06
+610,Delicatessen El Carmen,Centro,Valladolid,España,Tienda gourmet,Comercial directo,2024-09-29
+611,Taberna El Carmen,Galicia,Ourense,España,Hostelería,Feria,2024-01-29
+612,Alimentación El Carmen,Internacional,Burdeos,Francia,Distribuidor,Comercial directo,2026-02-20
+613,Cash El Carmen,Norte,Pamplona,España,Distribuidor,Comercial directo,2026-11-06
+614,Vinoteca El Carmen,Galicia,Ourense,España,Tienda gourmet,Web,2026-06-16
+615,Tienda Gourmet El Carmen,Centro,Segovia,España,Tienda gourmet,Distribuidor,2026-01-21
+616,Charcutería El Carmen,Centro,Toledo,España,Tienda gourmet,Distribuidor,2023-12-03
+617,Mercado El Carmen,Galicia,Pontevedra,España,Tienda gourmet,Web,2025-11-05
+618,Ultramar El Carmen,Galicia,Ourense,España,Tienda gourmet,Comercial directo,2025-06-30
+619,Cooperativa El Carmen,Centro,Valladolid,España,Gran cuenta,Comercial directo,2024-04-04
+620,Supermercados La Paz,Galicia,Ourense,España,Gran cuenta,Comercial directo,2022-11-09
+621,Taberna La Paz,Norte,Gijón,España,Hostelería,Distribuidor,2025-10-08
+622,Mesón La Paz,Galicia,Lugo,España,Hostelería,Feria,2023-02-23
+623,Cash La Paz,Sur,Málaga,España,Distribuidor,Feria,2023-10-08
+624,Suministros Hosteleros La Paz,Sur,Granada,España,Distribuidor,Web,2025-04-06
+625,Gastrobar La Paz,Galicia,Ourense,España,Hostelería,Web,2026-09-30
+626,Charcutería La Paz,Este,Girona,España,Tienda gourmet,Distribuidor,2026-10-12
+627,Importaciones La Paz,Centro,Salamanca,España,Distribuidor,Web,2025-04-03
+628,Ultramar La Paz,Centro,Cáceres,España,Tienda gourmet,Comercial directo,2022-02-22
+629,Bodega La Paz,Sur,Cádiz,España,Tienda gourmet,Web,2024-10-06
+630,Restaurante Los Arcos,Este,Palma,España,Hostelería,Comercial directo,2024-01-01
+631,Taberna Los Arcos,Galicia,Santiago de Compostela,España,Hostelería,Web,2024-06-08
+632,Colmado Los Arcos,Galicia,A Coruña,España,Tienda gourmet,Web,2022-04-03
+633,Marisquería Los Arcos,Galicia,Vigo,España,Hostelería,Comercial directo,2024-09-16
+634,Vinoteca Los Arcos,Internacional,Ciudad de México,México,Tienda gourmet,Distribuidor,2026-05-21
+635,Gastrobar Los Arcos,Centro,Toledo,España,Hostelería,Distribuidor,2025-05-15
+636,Hotel Los Arcos,Sur,Málaga,España,Hostelería,Comercial directo,2023-08-04
+637,Importaciones Los Arcos,Galicia,Pontevedra,España,Distribuidor,Comercial directo,2024-02-25
+638,Ultramar Los Arcos,Centro,Toledo,España,Tienda gourmet,Distribuidor,2022-12-23
+639,Cooperativa Los Arcos,Centro,Segovia,España,Gran cuenta,Comercial directo,2026-09-14
+640,Delicatessen La Fuente,Sur,Las Palmas de Gran Canaria,España,Tienda gourmet,Web,2024-12-23
+641,Comercial La Fuente,Este,Girona,España,Distribuidor,Comercial directo,2024-12-16
+642,Alimentación La Fuente,Galicia,A Coruña,España,Distribuidor,Comercial directo,2024-07-15
+643,Despensa La Fuente,Galicia,Pontevedra,España,Tienda gourmet,Feria,2026-04-15
+644,Vinoteca La Fuente,Sur,Málaga,España,Tienda gourmet,Comercial directo,2025-07-05
+645,Tienda Gourmet La Fuente,Galicia,Ourense,España,Tienda gourmet,Comercial directo,2023-10-07
+646,Hotel La Fuente,Galicia,Lugo,España,Hostelería,Distribuidor,2024-09-07
+647,Mercado La Fuente,Internacional,París,Francia,Tienda gourmet,Comercial directo,2022-02-24
+648,Gourmet Selección La Fuente,Galicia,Santiago de Compostela,España,Distribuidor,Web,2025-12-15
+649,Bodega La Fuente,Galicia,Pontevedra,España,Tienda gourmet,Comercial directo,2026-03-21
+650,Distribuciones El Pilar,Sur,Granada,España,Distribuidor,Web,2025-07-27
+651,Ultramarinos El Pilar,Internacional,Londres,Reino Unido,Tienda gourmet,Web,2026-03-03
+652,Colmado El Pilar,Centro,Valladolid,España,Tienda gourmet,Feria,2022-07-29
+653,Despensa El Pilar,Galicia,Santiago de Compostela,España,Tienda gourmet,Distribuidor,2023-07-19
+654,Vinoteca El Pilar,Galicia,Vigo,España,Tienda gourmet,Comercial directo,2026-08-16
+655,Tienda Gourmet El Pilar,Centro,Toledo,España,Tienda gourmet,Web,2024-12-18
+656,Hotel El Pilar,Galicia,A Coruña,España,Hostelería,Comercial directo,2025-07-28
+657,Mercado El Pilar,Galicia,Pontevedra,España,Tienda gourmet,Distribuidor,2026-02-07
+658,Bar El Pilar,Galicia,Ourense,España,Hostelería,Distribuidor,2023-11-11
+659,Bodega El Pilar,Norte,Gijón,España,Tienda gourmet,Comercial directo,2024-11-23
+660,Distribuciones La Merced,Galicia,Santiago de Compostela,España,Distribuidor,Comercial directo,2023-02-01
+661,Ultramarinos La Merced,Este,Zaragoza,España,Tienda gourmet,Comercial directo,2025-11-04
+662,Colmado La Merced,Centro,Valladolid,España,Tienda gourmet,Comercial directo,2025-07-13
+663,Marisquería La Merced,Norte,Pamplona,España,Hostelería,Web,2025-04-26
+664,Suministros Hosteleros La Merced,Centro,Segovia,España,Distribuidor,Comercial directo,2025-04-12
+665,Gastrobar La Merced,Internacional,París,Francia,Hostelería,Web,2024-01-12
+666,Hotel La Merced,Internacional,Oporto,Portugal,Hostelería,Feria,2025-04-28
+667,Mercado La Merced,Galicia,A Coruña,España,Tienda gourmet,Comercial directo,2023-02-12
+668,Ultramar La Merced,Galicia,Lugo,España,Tienda gourmet,Distribuidor,2026-01-09
+669,Bodega La Merced,Centro,Valladolid,España,Tienda gourmet,Web,2024-03-20
+670,Delicatessen Las Flores,Galicia,Santiago de Compostela,España,Tienda gourmet,Web,2025-12-17
+671,Taberna Las Flores,Este,Barcelona,España,Hostelería,Feria,2022-11-26
+672,Colmado Las Flores,Centro,Segovia,España,Tienda gourmet,Web,2022-06-27
+673,Despensa Las Flores,Centro,Salamanca,España,Tienda gourmet,Comercial directo,2026-07-24
+674,Suministros Hosteleros Las Flores,Galicia,Vigo,España,Distribuidor,Web,2022-08-10
+675,Gastrobar Las Flores,Norte,Santander,España,Hostelería,Distribuidor,2022-07-10
+676,Charcutería Las Flores,Este,Palma,España,Tienda gourmet,Comercial directo,2026-08-28
+677,Mercado Las Flores,Este,Barcelona,España,Tienda gourmet,Distribuidor,2025-11-14
+678,Bar Las Flores,Galicia,Ourense,España,Hostelería,Web,2024-10-15
+679,Provisiones Las Flores,Sur,Sevilla,España,Distribuidor,Distribuidor,2026-04-26
+680,Delicatessen El Olivo,Centro,Cáceres,España,Tienda gourmet,Feria,2026-06-12
+681,Taberna El Olivo,Norte,Santander,España,Hostelería,Comercial directo,2026-11-04
+682,Mesón El Olivo,Este,Palma,España,Hostelería,Feria,2023-03-15
+683,Marisquería El Olivo,Norte,San Sebastián,España,Hostelería,Web,2024-02-25
+684,Pulpería El Olivo,Galicia,Lugo,España,Hostelería,Comercial directo,2023-11-26
+685,Gastrobar El Olivo,Norte,Oviedo,España,Hostelería,Web,2025-09-17
+686,Charcutería El Olivo,Sur,Las Palmas de Gran Canaria,España,Tienda gourmet,Comercial directo,2022-05-25
+687,Casa de Comidas El Olivo,Galicia,A Coruña,España,Hostelería,Web,2023-08-27
+688,Bar El Olivo,Galicia,A Coruña,España,Hostelería,Distribuidor,2024-03-14
+689,Bodega El Olivo,Centro,Toledo,España,Tienda gourmet,Feria,2023-03-27
+690,Distribuciones La Encina,Centro,Valladolid,España,Distribuidor,Comercial directo,2023-04-29
+691,Taberna La Encina,Este,Barcelona,España,Hostelería,Web,2022-10-16
+692,Mesón La Encina,Este,Palma,España,Hostelería,Comercial directo,2026-05-07
+693,Marisquería La Encina,Galicia,Pontevedra,España,Hostelería,Web,2025-05-11
+694,Vinoteca La Encina,Galicia,A Coruña,España,Tienda gourmet,Distribuidor,2023-10-15
+695,Almacenes La Encina,Sur,Granada,España,Distribuidor,Feria,2024-11-19
+696,Logística Alimentaria La Encina,Galicia,Santiago de Compostela,España,Distribuidor,Web,2023-03-04
+697,Importaciones La Encina,Internacional,Londres,Reino Unido,Distribuidor,Comercial directo,2025-12-24
+698,Ultramar La Encina,Centro,Madrid,España,Tienda gourmet,Web,2022-12-02
+699,Asador La Encina,Sur,Murcia,España,Hostelería,Comercial directo,2024-03-18
+700,Delicatessen Los Pinos,Este,Barcelona,España,Tienda gourmet,Distribuidor,2022-08-12
+701,Taberna Los Pinos,Galicia,Santiago de Compostela,España,Hostelería,Distribuidor,2026-01-16
+702,Colmado Los Pinos,Este,Zaragoza,España,Tienda gourmet,Distribuidor,2023-03-29
+703,Despensa Los Pinos,Sur,Sevilla,España,Tienda gourmet,Comercial directo,2022-01-05
+704,Pulpería Los Pinos,Este,Palma,España,Hostelería,Distribuidor,2025-07-13
+705,Tienda Gourmet Los Pinos,Centro,Toledo,España,Tienda gourmet,Web,2024-02-23
+706,Hotel Los Pinos,Internacional,Burdeos,Francia,Hostelería,Comercial directo,2025-02-08
+707,Mercado Los Pinos,Sur,Granada,España,Tienda gourmet,Web,2024-03-26
+708,Ultramar Los Pinos,Centro,Valladolid,España,Tienda gourmet,Web,2026-01-11
+709,Provisiones Los Pinos,Internacional,Oporto,Portugal,Distribuidor,Distribuidor,2023-11-04
+710,Delicatessen El Roble,Este,Girona,España,Tienda gourmet,Distribuidor,2026-10-31
+711,Taberna El Roble,Galicia,Santiago de Compostela,España,Hostelería,Feria,2023-09-11
+712,Mesón El Roble,Este,Valencia,España,Hostelería,Distribuidor,2024-06-18
+713,Marisquería El Roble,Galicia,Ourense,España,Hostelería,Comercial directo,2022-08-02
+714,Vinoteca El Roble,Galicia,A Coruña,España,Tienda gourmet,Feria,2026-01-19
+715,Tienda Gourmet El Roble,Norte,Oviedo,España,Tienda gourmet,Distribuidor,2022-07-19
+716,Charcutería El Roble,Sur,Sevilla,España,Tienda gourmet,Distribuidor,2022-08-26
+717,Mercado El Roble,Este,Barcelona,España,Tienda gourmet,Comercial directo,2026-02-17
+718,Ultramar El Roble,Centro,Cáceres,España,Tienda gourmet,Web,2025-11-11
+719,Asador El Roble,Centro,Valladolid,España,Hostelería,Distribuidor,2025-03-30
+720,Restaurante La Ermita,Galicia,Santiago de Compostela,España,Hostelería,Web,2024-11-17
+721,Taberna La Ermita,Este,Valencia,España,Hostelería,Web,2024-03-22
+722,Mesón La Ermita,Internacional,París,Francia,Hostelería,Web,2022-04-08
+723,Marisquería La Ermita,Este,Valencia,España,Hostelería,Comercial directo,2023-02-26
+724,Suministros Hosteleros La Ermita,Galicia,Vigo,España,Distribuidor,Web,2026-03-02
+725,Gastrobar La Ermita,Galicia,A Coruña,España,Hostelería,Web,2024-05-04
+726,Charcutería La Ermita,Galicia,Pontevedra,España,Tienda gourmet,Comercial directo,2024-09-27
+727,Casa de Comidas La Ermita,Galicia,Ourense,España,Hostelería,Web,2024-11-20
+728,Bar La Ermita,Sur,Sevilla,España,Hostelería,Web,2022-08-18
+729,Bodega La Ermita,Galicia,Lugo,España,Tienda gourmet,Web,2024-02-12
+730,Restaurante El Molino,Galicia,A Coruña,España,Hostelería,Web,2022-05-15
+731,Ultramarinos El Molino,Galicia,Vigo,España,Tienda gourmet,Web,2022-01-16
+732,Colmado El Molino,Galicia,Santiago de Compostela,España,Tienda gourmet,Feria,2024-07-27
+733,Marisquería El Molino,Internacional,Londres,Reino Unido,Hostelería,Distribuidor,2024-05-15
+734,Vinoteca El Molino,Internacional,París,Francia,Tienda gourmet,Distribuidor,2023-01-11
+735,Tienda Gourmet El Molino,Sur,Las Palmas de Gran Canaria,España,Tienda gourmet,Feria,2022-09-05
+736,Hotel El Molino,Centro,Toledo,España,Hostelería,Distribuidor,2022-05-01
+737,Mercado El Molino,Internacional,Oporto,Portugal,Tienda gourmet,Comercial directo,2026-04-23
+738,Bar El Molino,Centro,Madrid,España,Hostelería,Web,2025-09-05
+739,Bodega El Molino,Este,Zaragoza,España,Tienda gourmet,Web,2022-08-05
+740,Restaurante La Torre,Sur,Murcia,España,Hostelería,Comercial directo,2023-05-02
+741,Taberna La Torre,Centro,Salamanca,España,Hostelería,Web,2022-08-08
+742,Colmado La Torre,Norte,Oviedo,España,Tienda gourmet,Web,2026-11-08
+743,Despensa La Torre,Galicia,Santiago de Compostela,España,Tienda gourmet,Feria,2025-12-09
+744,Pulpería La Torre,Este,Barcelona,España,Hostelería,Comercial directo,2026-07-09
+745,Tienda Gourmet La Torre,Centro,Valladolid,España,Tienda gourmet,Feria,2025-07-20
+746,Charcutería La Torre,Internacional,Burdeos,Francia,Tienda gourmet,Comercial directo,2025-12-28
+747,Casa de Comidas La Torre,Centro,Salamanca,España,Hostelería,Feria,2024-12-14
+748,Economatos La Torre,Sur,Cádiz,España,Gran cuenta,Distribuidor,2024-12-25
+749,Asador La Torre,Galicia,Pontevedra,España,Hostelería,Feria,2026-11-16
+750,Restaurante El Castillo,Galicia,Ourense,España,Hostelería,Web,2026-08-30
+751,Hipermercados El Castillo,Centro,Salamanca,España,Gran cuenta,Distribuidor,2026-05-08
+752,Mesón El Castillo,Galicia,Pontevedra,España,Hostelería,Web,2022-02-11
+753,Marisquería El Castillo,Centro,Cáceres,España,Hostelería,Feria,2022-12-11
+754,Vinoteca El Castillo,Galicia,Pontevedra,España,Tienda gourmet,Comercial directo,2025-04-02
+755,Almacenes El Castillo,Centro,Toledo,España,Distribuidor,Web,2025-07-06
+756,Hotel El Castillo,Este,Alicante,España,Hostelería,Web,2026-06-17
+757,Importaciones El Castillo,Centro,Madrid,España,Distribuidor,Comercial directo,2025-06-19
+758,Gourmet Selección El Castillo,Galicia,Lugo,España,Distribuidor,Web,2022-05-21
+759,Asador El Castillo,Galicia,Pontevedra,España,Hostelería,Comercial directo,2025-09-25
+760,Restaurante La Estrella,Galicia,Ourense,España,Hostelería,Feria,2025-06-24
+761,Taberna La Estrella,Este,Girona,España,Hostelería,Web,2022-06-21
+762,Alimentación La Estrella,Galicia,A Coruña,España,Distribuidor,Comercial directo,2024-12-16
+763,Marisquería La Estrella,Galicia,Vigo,España,Hostelería,Feria,2025-12-17
+764,Pulpería La Estrella,Internacional,Burdeos,Francia,Hostelería,Comercial directo,2026-01-20
+765,Gastrobar La Estrella,Centro,Valladolid,España,Hostelería,Comercial directo,2024-05-28
+766,Hotel La Estrella,Galicia,Santiago de Compostela,España,Hostelería,Distribuidor,2022-09-19
+767,Mercado La Estrella,Sur,Murcia,España,Tienda gourmet,Web,2024-08-03
+768,Bar La Estrella,Este,Zaragoza,España,Hostelería,Web,2026-05-11
+769,Bodega La Estrella,Centro,Valladolid,España,Tienda gourmet,Web,2025-12-07
+770,Distribuciones El Sol,Este,Alicante,España,Distribuidor,Distribuidor,2024-03-25
+771,Ultramarinos El Sol,Centro,Salamanca,España,Tienda gourmet,Web,2025-08-17
+772,Mesón El Sol,Sur,Cádiz,España,Hostelería,Comercial directo,2026-09-04
+773,Despensa El Sol,Galicia,Lugo,España,Tienda gourmet,Web,2024-02-26
+774,Pulpería El Sol,Este,Girona,España,Hostelería,Web,2023-04-28
+775,Gastrobar El Sol,Sur,Cádiz,España,Hostelería,Comercial directo,2024-06-25
+776,Hotel El Sol,Este,Palma,España,Hostelería,Web,2024-12-15
+777,Importaciones El Sol,Galicia,Lugo,España,Distribuidor,Feria,2024-01-23
+778,Ultramar El Sol,Centro,Valladolid,España,Tienda gourmet,Feria,2024-09-22
+779,Asador El Sol,Centro,Salamanca,España,Hostelería,Comercial directo,2026-10-25
+780,Delicatessen La Luna,Galicia,Santiago de Compostela,España,Tienda gourmet,Web,2022-12-31
+781,Taberna La Luna,Norte,San Sebastián,España,Hostelería,Web,2024-08-18
+782,Grupo La Luna,Internacional,Ciudad de México,México,Gran cuenta,Comercial directo,2024-03-30
+783,Despensa La Luna,Galicia,Pontevedra,España,Tienda gourmet,Feria,2023-04-17
+784,Pulpería La Luna,Galicia,Pontevedra,España,Hostelería,Distribuidor,2023-09-29
+785,Gastrobar La Luna,Centro,Salamanca,España,Hostelería,Feria,2023-08-07
+786,Charcutería La Luna,Este,Alicante,España,Tienda gourmet,Distribuidor,2026-10-02
+787,Casa de Comidas La Luna,Centro,Salamanca,España,Hostelería,Web,2025-10-30
+788,Ultramar La Luna,Sur,Granada,España,Tienda gourmet,Distribuidor,2022-07-25
+789,Provisiones La Luna,Sur,Cádiz,España,Distribuidor,Web,2023-06-15
+790,Distribuciones El Mar,Centro,Cáceres,España,Distribuidor,Feria,2024-09-06
+791,Taberna El Mar,Norte,Oviedo,España,Hostelería,Distribuidor,2025-12-14
+792,Colmado El Mar,Galicia,A Coruña,España,Tienda gourmet,Web,2026-09-22
+793,Marisquería El Mar,Centro,Valladolid,España,Hostelería,Web,2024-05-27
+794,Vinoteca El Mar,Este,Barcelona,España,Tienda gourmet,Comercial directo,2025-05-16
+795,Tienda Gourmet El Mar,Centro,Cáceres,España,Tienda gourmet,Distribuidor,2022-06-11
+796,Hotel El Mar,Internacional,Oporto,Portugal,Hostelería,Distribuidor,2025-01-30
+797,Importaciones El Mar,Este,Barcelona,España,Distribuidor,Distribuidor,2026-02-24
+798,Ultramar El Mar,Sur,Las Palmas de Gran Canaria,España,Tienda gourmet,Web,2025-04-14
+799,Provisiones El Mar,Sur,Málaga,España,Distribuidor,Distribuidor,2022-07-07
+800,Restaurante Atlántico,Este,Valencia,España,Hostelería,Web,2023-03-12
+801,Ultramarinos Atlántico (A Coruña),Galicia,A Coruña,España,Tienda gourmet,Web,2022-10-11
+802,Mesón Atlántico (Girona),Este,Girona,España,Hostelería,Distribuidor,2022-02-22
+803,Despensa Atlántico,Galicia,A Coruña,España,Tienda gourmet,Web,2022-06-21
+804,Pulpería Atlántico,Galicia,Santiago de Compostela,España,Hostelería,Comercial directo,2025-01-12
+805,Gastrobar Atlántico,Este,Barcelona,España,Hostelería,Comercial directo,2024-11-29
+806,Logística Alimentaria Atlántico,Internacional,París,Francia,Distribuidor,Distribuidor,2026-03-30
+807,Hipercentro Atlántico,Sur,Murcia,España,Gran cuenta,Web,2022-05-09
+808,Bar Atlántico (Santiago de Compostela),Galicia,Santiago de Compostela,España,Hostelería,Distribuidor,2024-12-22
+809,Bodega Atlántico,Galicia,Vigo,España,Tienda gourmet,Distribuidor,2023-04-01
+810,Restaurante Arousa,Sur,Sevilla,España,Hostelería,Distribuidor,2022-06-26
+811,Ultramarinos Arousa,Galicia,Ourense,España,Tienda gourmet,Feria,2022-12-14
+812,Colmado Arousa (Cáceres),Centro,Cáceres,España,Tienda gourmet,Distribuidor,2025-11-28
+813,Marisquería Arousa,Centro,Madrid,España,Hostelería,Web,2022-08-19
+814,Vinoteca Arousa,Centro,Segovia,España,Tienda gourmet,Web,2026-02-12
+815,Tienda Gourmet Arousa,Este,Palma,España,Tienda gourmet,Feria,2026-11-03
+816,Hotel Arousa,Este,Alicante,España,Hostelería,Distribuidor,2023-08-13
+817,Mercado Arousa,Norte,Pamplona,España,Tienda gourmet,Feria,2025-05-21
+818,Bar Arousa (Vigo),Galicia,Vigo,España,Hostelería,Web,2023-11-24
+819,Bodega Arousa,Galicia,Pontevedra,España,Tienda gourmet,Web,2025-03-12
+820,Delicatessen Rías Baixas,Centro,Salamanca,España,Tienda gourmet,Comercial directo,2023-07-05
+821,Ultramarinos Rías Baixas,Galicia,A Coruña,España,Tienda gourmet,Web,2024-09-08
+822,Alimentación Rías Baixas,Norte,Gijón,España,Distribuidor,Distribuidor,2022-06-09
+823,Cadena Rías Baixas,Galicia,Vigo,España,Gran cuenta,Web,2022-03-26
+824,Pulpería Rías Baixas (Salamanca),Centro,Salamanca,España,Hostelería,Distribuidor,2026-02-03
+825,Tienda Gourmet Rías Baixas (Pamplona),Norte,Pamplona,España,Tienda gourmet,Comercial directo,2025-05-16
+826,Charcutería Rías Baixas,Centro,Salamanca,España,Tienda gourmet,Comercial directo,2025-06-21
+827,Importaciones Rías Baixas,Galicia,Vigo,España,Distribuidor,Distribuidor,2024-02-15
+828,Bar Rías Baixas,Este,Girona,España,Hostelería,Feria,2024-03-24
+829,Asador Rías Baixas (Valladolid),Centro,Valladolid,España,Hostelería,Web,2026-01-21
+830,Delicatessen O Grove,Centro,Toledo,España,Tienda gourmet,Feria,2025-05-25
+831,Taberna O Grove,Norte,San Sebastián,España,Hostelería,Feria,2022-06-29
+832,Alimentación O Grove,Norte,Oviedo,España,Distribuidor,Feria,2025-01-21
+833,Marisquería O Grove (Ourense),Galicia,Ourense,España,Hostelería,Comercial directo,2024-01-18
+834,Vinoteca O Grove,Centro,Salamanca,España,Tienda gourmet,Comercial directo,2024-07-29
+835,Tienda Gourmet O Grove (Granada),Sur,Granada,España,Tienda gourmet,Web,2024-05-05
+836,Hotel O Grove,Internacional,Londres,Reino Unido,Hostelería,Comercial directo,2023-12-17
+837,Mercado O Grove,Este,Barcelona,España,Tienda gourmet,Web,2026-08-27
+838,Ultramar O Grove,Sur,Cádiz,España,Tienda gourmet,Web,2024-05-11
+839,Bodega O Grove,Centro,Madrid,España,Tienda gourmet,Web,2025-04-19
+840,Restaurante Cambados,Este,Alicante,España,Hostelería,Web,2023-06-25
+841,Taberna Cambados,Centro,Madrid,España,Hostelería,Comercial directo,2026-03-05
+842,Colmado Cambados,Norte,Pamplona,España,Tienda gourmet,Distribuidor,2024-06-15
+843,Despensa Cambados (Sevilla),Sur,Sevilla,España,Tienda gourmet,Comercial directo,2025-06-30
+844,Suministros Hosteleros Cambados,Centro,Salamanca,España,Distribuidor,Web,2022-04-29
+845,Gastrobar Cambados (Valencia),Este,Valencia,España,Hostelería,Comercial directo,2025-10-09
+846,Charcutería Cambados,Este,Palma,España,Tienda gourmet,Feria,2024-06-30
+847,Casa de Comidas Cambados,Internacional,Londres,Reino Unido,Hostelería,Feria,2025-12-05
+848,Bar Cambados,Sur,Sevilla,España,Hostelería,Comercial directo,2024-06-06
+849,Bodega Cambados (Málaga),Sur,Málaga,España,Tienda gourmet,Comercial directo,2025-09-05
+850,Restaurante Fisterra,Galicia,Ourense,España,Hostelería,Comercial directo,2024-12-18
+851,Ultramarinos Fisterra,Norte,Gijón,España,Tienda gourmet,Web,2026-09-04
+852,Alimentación Fisterra,Norte,San Sebastián,España,Distribuidor,Web,2026-06-03
+853,Despensa Fisterra,Galicia,Pontevedra,España,Tienda gourmet,Web,2023-05-08
+854,Pulpería Fisterra,Este,Barcelona,España,Hostelería,Comercial directo,2023-02-17
+855,Tienda Gourmet Fisterra (Valladolid),Centro,Valladolid,España,Tienda gourmet,Comercial directo,2023-10-01
+856,Charcutería Fisterra (Cádiz),Sur,Cádiz,España,Tienda gourmet,Distribuidor,2024-06-17
+857,Importaciones Fisterra,Este,Palma,España,Distribuidor,Web,2024-02-15
+858,Ultramar Fisterra (Pontevedra),Galicia,Pontevedra,España,Tienda gourmet,Web,2023-02-15
+859,Bodega Fisterra,Sur,Málaga,España,Tienda gourmet,Distribuidor,2026-07-26
+860,Delicatessen Costa da Morte,Centro,Toledo,España,Tienda gourmet,Distribuidor,2024-07-11
+861,Taberna Costa da Morte (Pontevedra),Galicia,Pontevedra,España,Hostelería,Comercial directo,2024-05-22
+862,Colmado Costa da Morte,Centro,Salamanca,España,Tienda gourmet,Web,2025-10-31
+863,Marisquería Costa da Morte,Sur,Murcia,España,Hostelería,Web,2026-06-25
+864,Pulpería Costa da Morte,Centro,Salamanca,España,Hostelería,Web,2024-06-16
+865,Almacenes Costa da Morte,Galicia,Pontevedra,España,Distribuidor,Web,2023-12-24
+866,Hotel Costa da Morte,Galicia,Vigo,España,Hostelería,Comercial directo,2025-05-05
+867,Hipercentro Costa da Morte (Lisboa),Internacional,Lisboa,Portugal,Gran cuenta,Web,2022-11-18
+868,Bar Costa da Morte,Galicia,A Coruña,España,Hostelería,Comercial directo,2026-07-02
+869,Bodega Costa da Morte,Sur,Las Palmas de Gran Canaria,España,Tienda gourmet,Comercial directo,2026-02-16
+870,Distribuciones Miño,Galicia,Lugo,España,Distribuidor,Web,2023-08-17
+871,Ultramarinos Miño,Galicia,Lugo,España,Tienda gourmet,Comercial directo,2023-08-20
+872,Alimentación Miño,Este,Barcelona,España,Distribuidor,Feria,2026-01-10
+873,Marisquería Miño,Centro,Toledo,España,Hostelería,Web,2023-05-04
+874,Vinoteca Miño,Galicia,Vigo,España,Tienda gourmet,Web,2025-03-04
+875,Autoservicios Miño,Galicia,Pontevedra,España,Gran cuenta,Feria,2023-05-24
+876,Charcutería Miño (Valencia),Este,Valencia,España,Tienda gourmet,Distribuidor,2022-10-23
+877,Hipercentro Miño,Internacional,Oporto,Portugal,Gran cuenta,Comercial directo,2022-08-26
+878,Ultramar Miño (Valladolid),Centro,Valladolid,España,Tienda gourmet,Comercial directo,2024-04-20
+879,Bodega Miño,Galicia,Pontevedra,España,Tienda gourmet,Comercial directo,2026-09-28
+880,Distribuciones Sil,Centro,Madrid,España,Distribuidor,Distribuidor,2026-11-23
+881,Hipermercados Sil,Centro,Valladolid,España,Gran cuenta,Web,2022-02-14
+882,Colmado Sil (Oviedo),Norte,Oviedo,España,Tienda gourmet,Web,2023-11-22
+883,Marisquería Sil (Santander),Norte,Santander,España,Hostelería,Web,2026-03-06
+884,Pulpería Sil,Este,Alicante,España,Hostelería,Web,2022-01-16
+885,Tienda Gourmet Sil (Valladolid),Centro,Valladolid,España,Tienda gourmet,Web,2025-02-02
+886,Hotel Sil,Este,Valencia,España,Hostelería,Web,2022-11-21
+887,Hipercentro Sil,Centro,Segovia,España,Gran cuenta,Web,2023-11-10
+888,Gourmet Selección Sil,Galicia,A Coruña,España,Distribuidor,Comercial directo,2022-12-15
+889,Bodega Sil (A Coruña),Galicia,A Coruña,España,Tienda gourmet,Distribuidor,2026-01-30
+890,Restaurante Ulla,Norte,Oviedo,España,Hostelería,Distribuidor,2026-06-08
+891,Taberna Ulla,Centro,Toledo,España,Hostelería,Web,2025-06-29
+892,Grupo Ulla,Internacional,Lisboa,Portugal,Gran cuenta,Comercial directo,2022-02-20
+893,Marisquería Ulla,Galicia,Vigo,España,Hostelería,Web,2026-02-09
+894,Suministros Hosteleros Ulla,Sur,Cádiz,España,Distribuidor,Web,2024-07-27
+895,Gastrobar Ulla (Toledo),Centro,Toledo,España,Hostelería,Distribuidor,2025-01-19
+896,Logística Alimentaria Ulla,Centro,Cáceres,España,Distribuidor,Web,2024-11-18
+897,Importaciones Ulla,Este,Zaragoza,España,Distribuidor,Comercial directo,2025-12-23
+898,Bar Ulla,Este,Zaragoza,España,Hostelería,Web,2024-10-22
+899,Asador Ulla (Ourense),Galicia,Ourense,España,Hostelería,Web,2025-12-27
+900,Delicatessen Barbanza,Internacional,Ciudad de México,México,Tienda gourmet,Distribuidor,2024-03-09
+901,Taberna Barbanza (Girona),Este,Girona,España,Hostelería,Comercial directo,2022-07-07
+902,Mesón Barbanza (Vigo),Galicia,Vigo,España,Hostelería,Web,2023-08-29
+903,Cash Barbanza,Sur,Granada,España,Distribuidor,Distribuidor,2023-08-20
+904,Pulpería Barbanza,Centro,Valladolid,España,Hostelería,Web,2024-08-28
+905,Almacenes Barbanza,Galicia,Ourense,España,Distribuidor,Feria,2024-01-09
+906,Hotel Barbanza,Internacional,Oporto,Portugal,Hostelería,Web,2026-11-22
+907,Importaciones Barbanza,Internacional,París,Francia,Distribuidor,Comercial directo,2024-11-07
+908,Bar Barbanza,Galicia,Lugo,España,Hostelería,Web,2025-10-07
+909,Provisiones Barbanza,Norte,Oviedo,España,Distribuidor,Web,2024-01-27
+910,Delicatessen Cíes (Burdeos),Internacional,Burdeos,Francia,Tienda gourmet,Web,2022-12-28
+911,Ultramarinos Cíes,Galicia,Ourense,España,Tienda gourmet,Comercial directo,2026-07-18
+912,Colmado Cíes (Lugo),Galicia,Lugo,España,Tienda gourmet,Web,2024-10-14
+913,Cadena Cíes (Murcia),Sur,Murcia,España,Gran cuenta,Web,2023-07-24
+914,Vinoteca Cíes,Norte,Santander,España,Tienda gourmet,Web,2024-12-30
+915,Gastrobar Cíes,Norte,Oviedo,España,Hostelería,Distribuidor,2023-03-18
+916,Logística Alimentaria Cíes,Norte,Bilbao,España,Distribuidor,Web,2024-01-09
+917,Importaciones Cíes,Centro,Cáceres,España,Distribuidor,Feria,2025-02-25
+918,Gourmet Selección Cíes,Centro,Madrid,España,Distribuidor,Comercial directo,2026-11-02
+919,Asador Cíes,Galicia,Pontevedra,España,Hostelería,Distribuidor,2025-09-02
+920,Restaurante Ons,Galicia,Pontevedra,España,Hostelería,Comercial directo,2025-11-10
+921,Taberna Ons,Este,Barcelona,España,Hostelería,Feria,2022-10-30
+922,Alimentación Ons,Galicia,A Coruña,España,Distribuidor,Comercial directo,2023-07-03
+923,Despensa Ons (Málaga),Sur,Málaga,España,Tienda gourmet,Web,2022-05-01
+924,Mercados Ons,Este,Alicante,España,Gran cuenta,Web,2022-07-04
+925,Autoservicios Ons,Centro,Salamanca,España,Gran cuenta,Web,2023-11-21
+926,Superalimentación Ons,Norte,Pamplona,España,Gran cuenta,Web,2025-10-10
+927,Casa de Comidas Ons (Madrid),Centro,Madrid,España,Hostelería,Comercial directo,2022-06-23
+928,Economatos Ons,Sur,Cádiz,España,Gran cuenta,Distribuidor,2024-12-17
+929,Asador Ons,Este,Valencia,España,Hostelería,Web,2023-10-13
+930,Delicatessen Sálvora,Galicia,Santiago de Compostela,España,Tienda gourmet,Comercial directo,2024-04-12
+931,Ultramarinos Sálvora,Este,Valencia,España,Tienda gourmet,Web,2026-04-02
+932,Mesón Sálvora (Las Palmas de Gran Canaria),Sur,Las Palmas de Gran Canaria,España,Hostelería,Comercial directo,2022-04-16
+933,Despensa Sálvora,Internacional,Burdeos,Francia,Tienda gourmet,Web,2024-09-28
+934,Pulpería Sálvora,Este,Palma,España,Hostelería,Web,2023-08-06
+935,Almacenes Sálvora,Galicia,A Coruña,España,Distribuidor,Web,2024-09-30
+936,Logística Alimentaria Sálvora,Centro,Salamanca,España,Distribuidor,Web,2023-09-18
+937,Casa de Comidas Sálvora (Barcelona),Este,Barcelona,España,Hostelería,Comercial directo,2026-04-08
+938,Bar Sálvora (Ciudad de México),Internacional,Ciudad de México,México,Hostelería,Web,2023-02-02
+939,Asador Sálvora,Este,Zaragoza,España,Hostelería,Comercial directo,2023-10-25
+940,Restaurante Ortigueira,Centro,Segovia,España,Hostelería,Web,2022-09-21
+941,Ultramarinos Ortigueira (Pontevedra),Galicia,Pontevedra,España,Tienda gourmet,Comercial directo,2026-01-24
+942,Mesón Ortigueira (Palma),Este,Palma,España,Hostelería,Distribuidor,2024-03-20
+943,Cash Ortigueira,Centro,Cáceres,España,Distribuidor,Feria,2023-11-28
+944,Vinoteca Ortigueira (Girona),Este,Girona,España,Tienda gourmet,Distribuidor,2023-12-14
+945,Tienda Gourmet Ortigueira (París),Internacional,París,Francia,Tienda gourmet,Distribuidor,2026-09-01
+946,Hotel Ortigueira,Sur,Málaga,España,Hostelería,Web,2022-06-02
+947,Casa de Comidas Ortigueira (Barcelona),Este,Barcelona,España,Hostelería,Web,2023-10-30
+948,Gourmet Selección Ortigueira,Centro,Salamanca,España,Distribuidor,Distribuidor,2022-05-04
+949,Asador Ortigueira,Sur,Sevilla,España,Hostelería,Feria,2025-05-29
+950,Restaurante As Mariñas,Galicia,Vigo,España,Hostelería,Distribuidor,2022-08-15
+951,Taberna As Mariñas (Girona),Este,Girona,España,Hostelería,Comercial directo,2026-04-06
+952,Colmado As Mariñas (Málaga),Sur,Málaga,España,Tienda gourmet,Web,2023-02-22
+953,Despensa As Mariñas,Sur,Sevilla,España,Tienda gourmet,Comercial directo,2024-02-13
+954,Vinoteca As Mariñas,Galicia,Vigo,España,Tienda gourmet,Web,2025-11-10
+955,Gastrobar As Mariñas,Centro,Segovia,España,Hostelería,Distribuidor,2023-12-18
+956,Logística Alimentaria As Mariñas,Este,Valencia,España,Distribuidor,Web,2024-03-27
+957,Casa de Comidas As Mariñas,Galicia,Lugo,España,Hostelería,Feria,2023-09-09
+958,Gourmet Selección As Mariñas (Ciudad de México),Internacional,Ciudad de México,México,Distribuidor,Comercial directo,2024-08-15
+959,Cooperativa As Mariñas,Galicia,Vigo,España,Gran cuenta,Web,2024-04-10
+960,Restaurante Bergantiños (Girona),Este,Girona,España,Hostelería,Distribuidor,2026-01-12
+961,Taberna Bergantiños,Galicia,Lugo,España,Hostelería,Web,2023-10-11
+962,Colmado Bergantiños,Centro,Cáceres,España,Tienda gourmet,Comercial directo,2022-04-27
+963,Despensa Bergantiños (Granada),Sur,Granada,España,Tienda gourmet,Feria,2022-12-16
+964,Vinoteca Bergantiños,Sur,Las Palmas de Gran Canaria,España,Tienda gourmet,Web,2024-08-04
+965,Tienda Gourmet Bergantiños (Pontevedra),Galicia,Pontevedra,España,Tienda gourmet,Comercial directo,2024-11-22
+966,Hotel Bergantiños,Centro,Salamanca,España,Hostelería,Web,2024-08-21
+967,Casa de Comidas Bergantiños (París),Internacional,París,Francia,Hostelería,Feria,2024-02-23
+968,Bar Bergantiños,Centro,Toledo,España,Hostelería,Web,2024-02-19
+969,Cooperativa Bergantiños,Sur,Las Palmas de Gran Canaria,España,Gran cuenta,Distribuidor,2022-03-27
+970,Distribuciones O Morrazo,Internacional,París,Francia,Distribuidor,Web,2026-03-29
+971,Taberna O Morrazo,Este,Zaragoza,España,Hostelería,Comercial directo,2022-02-25
+972,Grupo O Morrazo,Norte,Santander,España,Gran cuenta,Feria,2022-08-19
+973,Despensa O Morrazo (Málaga),Sur,Málaga,España,Tienda gourmet,Distribuidor,2024-04-14
+974,Suministros Hosteleros O Morrazo,Este,Valencia,España,Distribuidor,Comercial directo,2025-12-03
+975,Tienda Gourmet O Morrazo (Lugo),Galicia,Lugo,España,Tienda gourmet,Comercial directo,2022-12-06
+976,Hotel O Morrazo,Centro,Segovia,España,Hostelería,Comercial directo,2026-04-26
+977,Casa de Comidas O Morrazo (Valladolid),Centro,Valladolid,España,Hostelería,Comercial directo,2026-01-12
+978,Gourmet Selección O Morrazo (Las Palmas de Gran Canaria),Sur,Las Palmas de Gran Canaria,España,Distribuidor,Web,2025-05-30
+979,Provisiones O Morrazo,Centro,Madrid,España,Distribuidor,Feria,2026-01-21
+980,Distribuciones Lérez,Sur,Sevilla,España,Distribuidor,Web,2026-08-17
+981,Comercial Lérez,Centro,Segovia,España,Distribuidor,Comercial directo,2024-06-10
+982,Mesón Lérez,Sur,Murcia,España,Hostelería,Web,2024-12-26
+983,Despensa Lérez,Centro,Cáceres,España,Tienda gourmet,Feria,2024-12-22
+984,Pulpería Lérez (Madrid),Centro,Madrid,España,Hostelería,Feria,2025-11-21
+985,Tienda Gourmet Lérez,Este,Barcelona,España,Tienda gourmet,Web,2023-09-02
+986,Hotel Lérez,Este,Girona,España,Hostelería,Web,2026-07-15
+987,Casa de Comidas Lérez (Madrid),Centro,Madrid,España,Hostelería,Distribuidor,2024-05-13
+988,Gourmet Selección Lérez,Centro,Cáceres,España,Distribuidor,Web,2022-10-18
+989,Asador Lérez,Internacional,Oporto,Portugal,Hostelería,Feria,2026-06-13
+990,Restaurante Tambre,Internacional,Burdeos,Francia,Hostelería,Web,2025-01-18
+991,Ultramarinos Tambre (Vigo),Galicia,Vigo,España,Tienda gourmet,Distribuidor,2025-09-18
+992,Colmado Tambre (Palma),Este,Palma,España,Tienda gourmet,Comercial directo,2025-04-09
+993,Despensa Tambre (Oporto),Internacional,Oporto,Portugal,Tienda gourmet,Feria,2025-10-23
+994,Suministros Hosteleros Tambre,Galicia,Ourense,España,Distribuidor,Web,2023-07-02
+995,Gastrobar Tambre (A Coruña),Galicia,A Coruña,España,Hostelería,Comercial directo,2024-06-23
+996,Superalimentación Tambre,Sur,Sevilla,España,Gran cuenta,Web,2023-01-24
+997,Importaciones Tambre,Galicia,Vigo,España,Distribuidor,Feria,2026-11-14
+998,Ultramar Tambre (Santander),Norte,Santander,España,Tienda gourmet,Feria,2024-05-07
+999,Cooperativa Tambre,Este,Valencia,España,Gran cuenta,Comercial directo,2022-11-15
+1000,Distribuciones Cantábrico,Internacional,Londres,Reino Unido,Distribuidor,Distribuidor,2024-01-24
+1001,Taberna Cantábrico (Alicante),Este,Alicante,España,Hostelería,Web,2025-09-11
+1002,Mesón Cantábrico (Palma),Este,Palma,España,Hostelería,Web,2023-03-02
+1003,Despensa Cantábrico,Galicia,Lugo,España,Tienda gourmet,Comercial directo,2022-04-19
+1004,Pulpería Cantábrico (Santander),Norte,Santander,España,Hostelería,Web,2022-04-27
+1005,Almacenes Cantábrico,Sur,Granada,España,Distribuidor,Feria,2023-04-21
+1006,Hotel Cantábrico,Galicia,Vigo,España,Hostelería,Distribuidor,2023-07-28
+1007,Mercado Cantábrico (Barcelona),Este,Barcelona,España,Tienda gourmet,Web,2025-07-31
+1008,Gourmet Selección Cantábrico (Zaragoza),Este,Zaragoza,España,Distribuidor,Distribuidor,2025-03-19
+1009,Asador Cantábrico,Sur,Málaga,España,Hostelería,Comercial directo,2026-08-19
+1010,Restaurante Mediterráneo,Este,Palma,España,Hostelería,Web,2026-09-06
+1011,Taberna Mediterráneo,Este,Palma,España,Hostelería,Web,2022-04-25
+1012,Alimentación Mediterráneo,Centro,Valladolid,España,Distribuidor,Web,2025-05-10
+1013,Cash Mediterráneo (Barcelona),Este,Barcelona,España,Distribuidor,Distribuidor,2022-05-14
+1014,Vinoteca Mediterráneo,Centro,Salamanca,España,Tienda gourmet,Comercial directo,2026-07-17
+1015,Tienda Gourmet Mediterráneo (A Coruña),Galicia,A Coruña,España,Tienda gourmet,Web,2026-07-24
+1016,Hotel Mediterráneo,Este,Barcelona,España,Hostelería,Comercial directo,2022-02-04
+1017,Casa de Comidas Mediterráneo (Gijón),Norte,Gijón,España,Hostelería,Web,2025-12-15
+1018,Bar Mediterráneo,Centro,Cáceres,España,Hostelería,Distribuidor,2026-01-07
+1019,Asador Mediterráneo (Salamanca),Centro,Salamanca,España,Hostelería,Comercial directo,2023-05-16
+1020,Delicatessen Retiro,Sur,Cádiz,España,Tienda gourmet,Web,2026-11-19
+1021,Ultramarinos Retiro (Madrid),Centro,Madrid,España,Tienda gourmet,Web,2025-11-18
+1022,Colmado Retiro,Este,Valencia,España,Tienda gourmet,Distribuidor,2025-09-15
+1023,Cash Retiro,Este,Palma,España,Distribuidor,Comercial directo,2025-12-05
+1024,Vinoteca Retiro,Centro,Cáceres,España,Tienda gourmet,Comercial directo,2024-06-29
+1025,Tienda Gourmet Retiro,Sur,Murcia,España,Tienda gourmet,Web,2022-09-04
+1026,Charcutería Retiro (Ciudad de México),Internacional,Ciudad de México,México,Tienda gourmet,Feria,2024-03-01
+1027,Importaciones Retiro,Galicia,Vigo,España,Distribuidor,Web,2022-01-23
+1028,Bar Retiro,Centro,Madrid,España,Hostelería,Web,2026-04-13
+1029,Bodega Retiro,Este,Valencia,España,Tienda gourmet,Comercial directo,2026-09-23
+1030,Delicatessen Castellana,Centro,Valladolid,España,Tienda gourmet,Comercial directo,2022-05-03
+1031,Taberna Castellana,Internacional,Burdeos,Francia,Hostelería,Distribuidor,2026-08-27
+1032,Colmado Castellana (A Coruña),Galicia,A Coruña,España,Tienda gourmet,Comercial directo,2022-10-13
+1033,Despensa Castellana,Centro,Cáceres,España,Tienda gourmet,Distribuidor,2024-10-23
+1034,Pulpería Castellana,Sur,Las Palmas de Gran Canaria,España,Hostelería,Comercial directo,2024-09-22
+1035,Tienda Gourmet Castellana,Galicia,Lugo,España,Tienda gourmet,Web,2023-03-12
+1036,Hotel Castellana (Ourense),Galicia,Ourense,España,Hostelería,Comercial directo,2022-09-03
+1037,Casa de Comidas Castellana,Norte,Gijón,España,Hostelería,Web,2022-03-28
+1038,Ultramar Castellana,Internacional,Burdeos,Francia,Tienda gourmet,Web,2023-06-09
+1039,Bodega Castellana,Norte,Bilbao,España,Tienda gourmet,Web,2025-11-08
+1040,Restaurante Triana,Centro,Toledo,España,Hostelería,Comercial directo,2023-06-18
+1041,Taberna Triana,Norte,Gijón,España,Hostelería,Web,2022-05-09
+1042,Colmado Triana (A Coruña),Galicia,A Coruña,España,Tienda gourmet,Comercial directo,2026-11-21
+1043,Marisquería Triana,Internacional,Oporto,Portugal,Hostelería,Distribuidor,2026-02-19
+1044,Vinoteca Triana (Murcia),Sur,Murcia,España,Tienda gourmet,Feria,2024-07-01
+1045,Tienda Gourmet Triana,Galicia,A Coruña,España,Tienda gourmet,Web,2026-07-27
+1046,Hotel Triana,Galicia,Santiago de Compostela,España,Hostelería,Web,2024-08-19
+1047,Casa de Comidas Triana,Sur,Murcia,España,Hostelería,Feria,2025-09-19
+1048,Ultramar Triana,Sur,Granada,España,Tienda gourmet,Comercial directo,2025-05-07
+1049,Provisiones Triana,Internacional,Lisboa,Portugal,Distribuidor,Web,2023-07-09
+1050,Restaurante Albaicín,Internacional,Burdeos,Francia,Hostelería,Web,2026-01-23
+1051,Taberna Albaicín (Lugo),Galicia,Lugo,España,Hostelería,Feria,2024-12-09
+1052,Grupo Albaicín,Internacional,Londres,Reino Unido,Gran cuenta,Distribuidor,2026-09-05
+1053,Despensa Albaicín (Vigo),Galicia,Vigo,España,Tienda gourmet,Comercial directo,2024-10-31
+1054,Vinoteca Albaicín,Centro,Madrid,España,Tienda gourmet,Web,2026-05-20
+1055,Tienda Gourmet Albaicín (Bilbao),Norte,Bilbao,España,Tienda gourmet,Distribuidor,2024-04-01
+1056,Logística Alimentaria Albaicín,Sur,Murcia,España,Distribuidor,Feria,2022-12-29
+1057,Mercado Albaicín,Norte,Santander,España,Tienda gourmet,Feria,2025-12-18
+1058,Gourmet Selección Albaicín (Cádiz),Sur,Cádiz,España,Distribuidor,Web,2026-07-31
+1059,Asador Albaicín (Vigo),Galicia,Vigo,España,Hostelería,Comercial directo,2024-08-25
+1060,Delicatessen Ebro,Galicia,Pontevedra,España,Tienda gourmet,Comercial directo,2023-03-20
+1061,Ultramarinos Ebro,Internacional,París,Francia,Tienda gourmet,Distribuidor,2022-05-04
+1062,Colmado Ebro (Vigo),Galicia,Vigo,España,Tienda gourmet,Comercial directo,2023-10-24
+1063,Cadena Ebro,Sur,Sevilla,España,Gran cuenta,Web,2022-07-29
+1064,Vinoteca Ebro (Barcelona),Este,Barcelona,España,Tienda gourmet,Comercial directo,2026-08-17
+1065,Autoservicios Ebro,Este,Girona,España,Gran cuenta,Web,2023-10-23
+1066,Hotel Ebro,Galicia,Santiago de Compostela,España,Hostelería,Distribuidor,2025-02-14
+1067,Mercado Ebro,Centro,Segovia,España,Tienda gourmet,Web,2022-01-29
+1068,Economatos Ebro,Norte,Bilbao,España,Gran cuenta,Web,2022-06-03
+1069,Bodega Ebro (Toledo),Centro,Toledo,España,Tienda gourmet,Comercial directo,2026-08-22
+1070,Delicatessen Duero (San Sebastián),Norte,San Sebastián,España,Tienda gourmet,Web,2024-07-26
+1071,Ultramarinos Duero,Galicia,Vigo,España,Tienda gourmet,Web,2026-11-19
+1072,Colmado Duero,Internacional,Londres,Reino Unido,Tienda gourmet,Web,2025-09-09
+1073,Marisquería Duero,Galicia,Lugo,España,Hostelería,Distribuidor,2026-11-16
+1074,Vinoteca Duero,Centro,Madrid,España,Tienda gourmet,Web,2022-07-07
+1075,Tienda Gourmet Duero,Este,Barcelona,España,Tienda gourmet,Comercial directo,2026-06-29
+1076,Logística Alimentaria Duero (Valencia),Este,Valencia,España,Distribuidor,Comercial directo,2025-10-06
+1077,Casa de Comidas Duero (Alicante),Este,Alicante,España,Hostelería,Web,2026-07-10
+1078,Ultramar Duero (Valencia),Este,Valencia,España,Tienda gourmet,Web,2025-11-12
+1079,Bodega Duero,Este,Alicante,España,Tienda gourmet,Comercial directo,2024-09-10
+1080,Delicatessen Tajo (Vigo),Galicia,Vigo,España,Tienda gourmet,Distribuidor,2024-08-10
+1081,Ultramarinos Tajo,Este,Zaragoza,España,Tienda gourmet,Comercial directo,2025-04-14
+1082,Colmado Tajo,Centro,Valladolid,España,Tienda gourmet,Comercial directo,2025-12-25
+1083,Cadena Tajo (Pontevedra),Galicia,Pontevedra,España,Gran cuenta,Web,2024-12-13
+1084,Vinoteca Tajo,Sur,Málaga,España,Tienda gourmet,Comercial directo,2024-01-05
+1085,Gastrobar Tajo,Internacional,Oporto,Portugal,Hostelería,Distribuidor,2024-05-06
+1086,Charcutería Tajo,Este,Barcelona,España,Tienda gourmet,Feria,2025-04-21
+1087,Casa de Comidas Tajo (Ciudad de México),Internacional,Ciudad de México,México,Hostelería,Distribuidor,2022-01-19
+1088,Ultramar Tajo (Cáceres),Centro,Cáceres,España,Tienda gourmet,Web,2025-12-25
+1089,Cooperativa Tajo,Internacional,París,Francia,Gran cuenta,Comercial directo,2024-09-28
+1090,Distribuciones Guadalquivir,Sur,Granada,España,Distribuidor,Distribuidor,2022-02-15
+1091,Ultramarinos Guadalquivir,Galicia,A Coruña,España,Tienda gourmet,Feria,2022-09-10
+1092,Mesón Guadalquivir,Internacional,Londres,Reino Unido,Hostelería,Distribuidor,2026-07-07
+1093,Marisquería Guadalquivir,Galicia,Pontevedra,España,Hostelería,Web,2022-02-27
+1094,Vinoteca Guadalquivir (Vigo),Galicia,Vigo,España,Tienda gourmet,Comercial directo,2022-10-01
+1095,Tienda Gourmet Guadalquivir (Valencia),Este,Valencia,España,Tienda gourmet,Comercial directo,2023-01-17
+1096,Hotel Guadalquivir (Santiago de Compostela),Galicia,Santiago de Compostela,España,Hostelería,Distribuidor,2022-03-24
+1097,Mercado Guadalquivir,Norte,Santander,España,Tienda gourmet,Feria,2023-12-20
+1098,Ultramar Guadalquivir (Palma),Este,Palma,España,Tienda gourmet,Web,2025-04-04
+1099,Bodega Guadalquivir,Centro,Valladolid,España,Tienda gourmet,Comercial directo,2024-12-06
+1100,Delicatessen Montjuïc (Salamanca),Centro,Salamanca,España,Tienda gourmet,Web,2025-07-19
+1101,Ultramarinos Montjuïc,Centro,Madrid,España,Tienda gourmet,Feria,2024-04-06
+1102,Mesón Montjuïc,Este,Palma,España,Hostelería,Comercial directo,2024-11-23
+1103,Cash Montjuïc,Sur,Málaga,España,Distribuidor,Comercial directo,2023-07-24
+1104,Suministros Hosteleros Montjuïc,Galicia,Lugo,España,Distribuidor,Feria,2022-03-28
+1105,Tienda Gourmet Montjuïc,Sur,Málaga,España,Tienda gourmet,Comercial directo,2023-06-16
+1106,Hotel Montjuïc,Galicia,Pontevedra,España,Hostelería,Feria,2026-11-20
+1107,Casa de Comidas Montjuïc (Vigo),Galicia,Vigo,España,Hostelería,Comercial directo,2024-04-05
+1108,Gourmet Selección Montjuïc,Este,Girona,España,Distribuidor,Web,2022-03-17
+1109,Cooperativa Montjuïc,Galicia,Santiago de Compostela,España,Gran cuenta,Web,2024-01-09
+1110,Restaurante Turia (Segovia),Centro,Segovia,España,Hostelería,Feria,2023-03-08
+1111,Ultramarinos Turia (Cádiz),Sur,Cádiz,España,Tienda gourmet,Feria,2022-06-29
+1112,Colmado Turia,Internacional,Ciudad de México,México,Tienda gourmet,Feria,2023-07-20
+1113,Marisquería Turia,Este,Barcelona,España,Hostelería,Feria,2024-08-30
+1114,Vinoteca Turia,Galicia,Lugo,España,Tienda gourmet,Distribuidor,2024-02-06
+1115,Autoservicios Turia,Internacional,Londres,Reino Unido,Gran cuenta,Comercial directo,2023-01-27
+1116,Hotel Turia,Este,Barcelona,España,Hostelería,Comercial directo,2024-07-26
+1117,Importaciones Turia,Centro,Cáceres,España,Distribuidor,Web,2026-05-30
+1118,Bar Turia,Sur,Murcia,España,Hostelería,Web,2026-01-25
+1119,Asador Turia (Lugo),Galicia,Lugo,España,Hostelería,Comercial directo,2022-01-15
+1120,Distribuciones Alhambra,Galicia,Lugo,España,Distribuidor,Comercial directo,2022-06-21
+1121,Taberna Alhambra,Sur,Sevilla,España,Hostelería,Web,2026-09-13
+1122,Mesón Alhambra (Salamanca),Centro,Salamanca,España,Hostelería,Web,2023-09-30
+1123,Despensa Alhambra,Sur,Sevilla,España,Tienda gourmet,Comercial directo,2023-09-25
+1124,Vinoteca Alhambra (Segovia),Centro,Segovia,España,Tienda gourmet,Web,2025-06-06
+1125,Tienda Gourmet Alhambra (Ourense),Galicia,Ourense,España,Tienda gourmet,Distribuidor,2024-01-22
+1126,Superalimentación Alhambra,Este,Zaragoza,España,Gran cuenta,Web,2024-10-18
+1127,Casa de Comidas Alhambra (Vigo),Galicia,Vigo,España,Hostelería,Web,2022-06-13
+1128,Ultramar Alhambra,Centro,Toledo,España,Tienda gourmet,Distribuidor,2023-09-12
+1129,Bodega Alhambra (Valladolid),Centro,Valladolid,España,Tienda gourmet,Distribuidor,2022-09-17
+1130,Delicatessen Giralda (Pontevedra),Galicia,Pontevedra,España,Tienda gourmet,Comercial directo,2025-06-06
+1131,Ultramarinos Giralda,Galicia,A Coruña,España,Tienda gourmet,Comercial directo,2022-02-09
+1132,Colmado Giralda (Salamanca),Centro,Salamanca,España,Tienda gourmet,Feria,2023-01-19
+1133,Despensa Giralda (Valencia),Este,Valencia,España,Tienda gourmet,Web,2023-09-05
+1134,Suministros Hosteleros Giralda,Galicia,A Coruña,España,Distribuidor,Feria,2023-05-19
+1135,Tienda Gourmet Giralda (San Sebastián),Norte,San Sebastián,España,Tienda gourmet,Web,2024-01-03
+1136,Logística Alimentaria Giralda (Palma),Este,Palma,España,Distribuidor,Distribuidor,2024-03-22
+1137,Mercado Giralda (París),Internacional,París,Francia,Tienda gourmet,Comercial directo,2023-11-02
+1138,Ultramar Giralda,Sur,Las Palmas de Gran Canaria,España,Tienda gourmet,Web,2024-01-29
+1139,Asador Giralda,Norte,Bilbao,España,Hostelería,Comercial directo,2023-02-26
+1140,Distribuciones Sierra,Este,Girona,España,Distribuidor,Feria,2025-01-05
+1141,Ultramarinos Sierra (París),Internacional,París,Francia,Tienda gourmet,Web,2022-01-26
+1142,Colmado Sierra,Galicia,Vigo,España,Tienda gourmet,Web,2024-11-18
+1143,Cash Sierra,Galicia,Santiago de Compostela,España,Distribuidor,Comercial directo,2026-03-13
+1144,Pulpería Sierra,Galicia,A Coruña,España,Hostelería,Comercial directo,2026-09-21
+1145,Gastrobar Sierra (Oviedo),Norte,Oviedo,España,Hostelería,Distribuidor,2026-04-24
+1146,Charcutería Sierra,Este,Barcelona,España,Tienda gourmet,Distribuidor,2024-06-27
+1147,Mercado Sierra,Centro,Segovia,España,Tienda gourmet,Comercial directo,2022-07-02
+1148,Ultramar Sierra,Centro,Cáceres,España,Tienda gourmet,Web,2022-04-17
+1149,Asador Sierra (Oviedo),Norte,Oviedo,España,Hostelería,Distribuidor,2022-08-29
+1150,Delicatessen Vega,Galicia,Vigo,España,Tienda gourmet,Web,2026-04-11
+1151,Ultramarinos Vega,Centro,Madrid,España,Tienda gourmet,Distribuidor,2026-07-29
+1152,Colmado Vega,Internacional,Ciudad de México,México,Tienda gourmet,Web,2022-08-23
+1153,Cadena Vega,Galicia,Ourense,España,Gran cuenta,Feria,2025-11-13
+1154,Pulpería Vega (Lugo),Galicia,Lugo,España,Hostelería,Web,2023-05-02
+1155,Almacenes Vega,Internacional,Burdeos,Francia,Distribuidor,Comercial directo,2023-01-22
+1156,Charcutería Vega,Centro,Madrid,España,Tienda gourmet,Comercial directo,2022-06-24
+1157,Importaciones Vega (Pontevedra),Galicia,Pontevedra,España,Distribuidor,Distribuidor,2024-05-18
+1158,Gourmet Selección Vega (Madrid),Centro,Madrid,España,Distribuidor,Distribuidor,2022-03-14
+1159,Provisiones Vega (Barcelona),Este,Barcelona,España,Distribuidor,Comercial directo,2026-11-23
+1160,Distribuciones Ribera,Galicia,Vigo,España,Distribuidor,Feria,2024-12-24
+1161,Ultramarinos Ribera (Ourense),Galicia,Ourense,España,Tienda gourmet,Distribuidor,2026-08-13
+1162,Mesón Ribera,Centro,Valladolid,España,Hostelería,Comercial directo,2025-11-12
+1163,Marisquería Ribera,Centro,Toledo,España,Hostelería,Feria,2023-08-15
+1164,Pulpería Ribera,Este,Valencia,España,Hostelería,Distribuidor,2026-05-05
+1165,Tienda Gourmet Ribera (Pontevedra),Galicia,Pontevedra,España,Tienda gourmet,Comercial directo,2025-11-30
+1166,Hotel Ribera,Galicia,Pontevedra,España,Hostelería,Distribuidor,2022-08-23
+1167,Hipercentro Ribera,Centro,Madrid,España,Gran cuenta,Distribuidor,2022-03-07
+1168,Ultramar Ribera (Vigo),Galicia,Vigo,España,Tienda gourmet,Web,2023-04-05
+1169,Asador Ribera (Ourense),Galicia,Ourense,España,Hostelería,Web,2025-10-19
+1170,Delicatessen Prado,Galicia,A Coruña,España,Tienda gourmet,Comercial directo,2023-05-01
+1171,Ultramarinos Prado (Segovia),Centro,Segovia,España,Tienda gourmet,Distribuidor,2025-11-26
+1172,Mesón Prado,Internacional,Burdeos,Francia,Hostelería,Feria,2025-04-03
+1173,Cash Prado (Las Palmas de Gran Canaria),Sur,Las Palmas de Gran Canaria,España,Distribuidor,Web,2026-09-28
+1174,Vinoteca Prado (Lugo),Galicia,Lugo,España,Tienda gourmet,Distribuidor,2026-11-10
+1175,Tienda Gourmet Prado,Internacional,Oporto,Portugal,Tienda gourmet,Feria,2026-11-13
+1176,Charcutería Prado (Ourense),Galicia,Ourense,España,Tienda gourmet,Web,2023-06-29
+1177,Mercado Prado,Centro,Madrid,España,Tienda gourmet,Distribuidor,2022-04-06
+1178,Ultramar Prado,Galicia,Lugo,España,Tienda gourmet,Web,2022-10-17
+1179,Cooperativa Prado,Este,Valencia,España,Gran cuenta,Web,2026-04-21
+1180,Restaurante Mirador,Sur,Sevilla,España,Hostelería,Comercial directo,2026-11-17
+1181,Taberna Mirador,Internacional,Ciudad de México,México,Hostelería,Web,2023-10-04
+1182,Alimentación Mirador,Galicia,A Coruña,España,Distribuidor,Web,2026-03-18
+1183,Marisquería Mirador (Segovia),Centro,Segovia,España,Hostelería,Web,2024-08-11
+1184,Mercados Mirador,Galicia,Pontevedra,España,Gran cuenta,Comercial directo,2026-02-01
+1185,Tienda Gourmet Mirador (Gijón),Norte,Gijón,España,Tienda gourmet,Web,2023-01-14
+1186,Charcutería Mirador,Galicia,Lugo,España,Tienda gourmet,Comercial directo,2022-06-11
+1187,Hipercentro Mirador,Internacional,Oporto,Portugal,Gran cuenta,Comercial directo,2024-04-26
+1188,Ultramar Mirador,Galicia,Vigo,España,Tienda gourmet,Feria,2024-07-15
+1189,Provisiones Mirador,Internacional,Lisboa,Portugal,Distribuidor,Web,2026-10-05
+1190,Supermercados Horizonte,Este,Barcelona,España,Gran cuenta,Web,2022-02-05
+1191,Comercial Horizonte,Galicia,Vigo,España,Distribuidor,Feria,2023-07-04
+1192,Mesón Horizonte,Este,Zaragoza,España,Hostelería,Web,2022-06-02
+1193,Despensa Horizonte,Sur,Granada,España,Tienda gourmet,Distribuidor,2024-05-08
+1194,Pulpería Horizonte,Centro,Salamanca,España,Hostelería,Comercial directo,2026-03-17
+1195,Tienda Gourmet Horizonte,Norte,San Sebastián,España,Tienda gourmet,Web,2023-11-27
+1196,Charcutería Horizonte,Centro,Salamanca,España,Tienda gourmet,Feria,2022-02-18
+1197,Casa de Comidas Horizonte (Valencia),Este,Valencia,España,Hostelería,Distribuidor,2023-04-09
+1198,Economatos Horizonte,Galicia,Pontevedra,España,Gran cuenta,Feria,2025-01-25
+1199,Provisiones Horizonte,Centro,Valladolid,España,Distribuidor,Web,2025-01-25
+1200,Distribuciones Aurora,Centro,Cáceres,España,Distribuidor,Feria,2023-04-10
+1201,Taberna Aurora (Palma),Este,Palma,España,Hostelería,Comercial directo,2025-06-04
+1202,Mesón Aurora (Alicante),Este,Alicante,España,Hostelería,Feria,2023-06-29
+1203,Marisquería Aurora (Valencia),Este,Valencia,España,Hostelería,Feria,2024-08-25
+1204,Pulpería Aurora,Galicia,Vigo,España,Hostelería,Web,2023-03-30
+1205,Almacenes Aurora (Ourense),Galicia,Ourense,España,Distribuidor,Web,2023-11-29
+1206,Charcutería Aurora,Galicia,Santiago de Compostela,España,Tienda gourmet,Web,2023-02-15
+1207,Mercado Aurora,Norte,Gijón,España,Tienda gourmet,Distribuidor,2022-06-04
+1208,Ultramar Aurora,Internacional,Londres,Reino Unido,Tienda gourmet,Feria,2024-05-11
+1209,Cooperativa Aurora,Centro,Madrid,España,Gran cuenta,Web,2024-11-17
+1210,Delicatessen Faro (Cáceres),Centro,Cáceres,España,Tienda gourmet,Feria,2025-09-12
+1211,Ultramarinos Faro,Galicia,Pontevedra,España,Tienda gourmet,Comercial directo,2025-12-14
+1212,Mesón Faro,Sur,Málaga,España,Hostelería,Comercial directo,2026-02-04
+1213,Marisquería Faro (Ourense),Galicia,Ourense,España,Hostelería,Distribuidor,2024-02-03
+1214,Vinoteca Faro,Galicia,Pontevedra,España,Tienda gourmet,Distribuidor,2024-07-05
+1215,Almacenes Faro,Sur,Murcia,España,Distribuidor,Distribuidor,2026-01-31
+1216,Hotel Faro,Galicia,Lugo,España,Hostelería,Web,2026-11-03
+1217,Casa de Comidas Faro (Toledo),Centro,Toledo,España,Hostelería,Comercial directo,2023-12-10
+1218,Gourmet Selección Faro,Este,Girona,España,Distribuidor,Feria,2024-02-16
+1219,Provisiones Faro,Sur,Granada,España,Distribuidor,Distribuidor,2022-01-18
+1220,Delicatessen Puerto,Internacional,Londres,Reino Unido,Tienda gourmet,Distribuidor,2026-09-01
+1221,Ultramarinos Puerto,Sur,Granada,España,Tienda gourmet,Comercial directo,2022-04-08
+1222,Alimentación Puerto,Galicia,Pontevedra,España,Distribuidor,Comercial directo,2022-07-28
+1223,Despensa Puerto (Ourense),Galicia,Ourense,España,Tienda gourmet,Web,2022-02-16
+1224,Pulpería Puerto,Internacional,Londres,Reino Unido,Hostelería,Web,2025-04-25
+1225,Gastrobar Puerto,Centro,Toledo,España,Hostelería,Comercial directo,2024-04-06
+1226,Logística Alimentaria Puerto,Este,Zaragoza,España,Distribuidor,Comercial directo,2025-05-19
+1227,Mercado Puerto (Vigo),Galicia,Vigo,España,Tienda gourmet,Distribuidor,2022-09-14
+1228,Ultramar Puerto (Girona),Este,Girona,España,Tienda gourmet,Comercial directo,2022-01-27
+1229,Asador Puerto (Cáceres),Centro,Cáceres,España,Hostelería,Comercial directo,2024-05-24
+1230,Restaurante Lonja,Sur,Cádiz,España,Hostelería,Web,2025-01-01
+1231,Ultramarinos Lonja,Galicia,Pontevedra,España,Tienda gourmet,Web,2024-02-25
+1232,Mesón Lonja,Galicia,A Coruña,España,Hostelería,Web,2025-01-29
+1233,Marisquería Lonja,Internacional,París,Francia,Hostelería,Web,2022-10-03
+1234,Mercados Lonja,Galicia,Santiago de Compostela,España,Gran cuenta,Feria,2022-10-21
+1235,Almacenes Lonja (Santiago de Compostela),Galicia,Santiago de Compostela,España,Distribuidor,Distribuidor,2023-11-28
+1236,Superalimentación Lonja,Centro,Segovia,España,Gran cuenta,Web,2025-02-23
+1237,Casa de Comidas Lonja (Madrid),Centro,Madrid,España,Hostelería,Web,2026-03-24
+1238,Bar Lonja (A Coruña),Galicia,A Coruña,España,Hostelería,Web,2026-03-05
+1239,Bodega Lonja (Pontevedra),Galicia,Pontevedra,España,Tienda gourmet,Web,2026-06-27
+1240,Delicatessen Muelle,Sur,Granada,España,Tienda gourmet,Web,2022-04-17
+1241,Taberna Muelle (Pontevedra),Galicia,Pontevedra,España,Hostelería,Feria,2023-09-02
+1242,Mesón Muelle,Galicia,Santiago de Compostela,España,Hostelería,Feria,2025-05-10
+1243,Marisquería Muelle (Valladolid),Centro,Valladolid,España,Hostelería,Feria,2026-05-24
+1244,Pulpería Muelle,Este,Zaragoza,España,Hostelería,Feria,2024-10-18
+1245,Gastrobar Muelle (Santiago de Compostela),Galicia,Santiago de Compostela,España,Hostelería,Distribuidor,2023-06-05
+1246,Hotel Muelle,Norte,Oviedo,España,Hostelería,Web,2025-07-04
+1247,Casa de Comidas Muelle,Norte,Santander,España,Hostelería,Distribuidor,2024-06-25
+1248,Ultramar Muelle,Sur,Las Palmas de Gran Canaria,España,Tienda gourmet,Web,2023-06-12
+1249,Asador Muelle,Norte,Pamplona,España,Hostelería,Web,2022-10-23
+1250,Delicatessen Marea,Internacional,Lisboa,Portugal,Tienda gourmet,Web,2024-05-10
+1251,Ultramarinos Marea (Salamanca),Centro,Salamanca,España,Tienda gourmet,Comercial directo,2023-06-24
+1252,Colmado Marea,Este,Zaragoza,España,Tienda gourmet,Web,2026-01-22
+1253,Marisquería Marea,Sur,Las Palmas de Gran Canaria,España,Hostelería,Web,2026-03-28
+1254,Vinoteca Marea,Este,Zaragoza,España,Tienda gourmet,Web,2023-01-13
+1255,Gastrobar Marea,Galicia,Vigo,España,Hostelería,Comercial directo,2023-08-16
+1256,Hotel Marea (Burdeos),Internacional,Burdeos,Francia,Hostelería,Distribuidor,2023-08-22
+1257,Casa de Comidas Marea,Internacional,Lisboa,Portugal,Hostelería,Feria,2025-12-03
+1258,Ultramar Marea (Lugo),Galicia,Lugo,España,Tienda gourmet,Feria,2022-06-07
+1259,Cooperativa Marea,Galicia,Santiago de Compostela,España,Gran cuenta,Web,2025-01-16
+1260,Restaurante Brisa,Galicia,Pontevedra,España,Hostelería,Comercial directo,2025-08-12
+1261,Taberna Brisa,Norte,Santander,España,Hostelería,Web,2026-10-28
+1262,Colmado Brisa,Galicia,Lugo,España,Tienda gourmet,Comercial directo,2024-09-11
+1263,Marisquería Brisa,Galicia,Santiago de Compostela,España,Hostelería,Distribuidor,2022-03-07
+1264,Mercados Brisa (Vigo),Galicia,Vigo,España,Gran cuenta,Distribuidor,2024-10-10
+1265,Autoservicios Brisa,Sur,Granada,España,Gran cuenta,Web,2026-05-08
+1266,Charcutería Brisa,Sur,Sevilla,España,Tienda gourmet,Distribuidor,2026-03-23
+1267,Mercado Brisa,Galicia,Lugo,España,Tienda gourmet,Web,2022-05-18
+1268,Gourmet Selección Brisa,Este,Palma,España,Distribuidor,Web,2023-02-04
+1269,Provisiones Brisa,Centro,Valladolid,España,Distribuidor,Comercial directo,2022-08-01
+1270,Restaurante Ancla,Galicia,Pontevedra,España,Hostelería,Web,2026-07-18
+1271,Ultramarinos Ancla (Madrid),Centro,Madrid,España,Tienda gourmet,Feria,2023-12-31
+1272,Mesón Ancla,Centro,Segovia,España,Hostelería,Distribuidor,2024-11-23
+1273,Despensa Ancla (Londres),Internacional,Londres,Reino Unido,Tienda gourmet,Distribuidor,2026-08-22
+1274,Pulpería Ancla,Centro,Salamanca,España,Hostelería,Distribuidor,2022-08-04
+1275,Tienda Gourmet Ancla,Centro,Valladolid,España,Tienda gourmet,Web,2025-07-12
+1276,Hotel Ancla (Ourense),Galicia,Ourense,España,Hostelería,Distribuidor,2024-08-03
+1277,Mercado Ancla,Norte,Santander,España,Tienda gourmet,Web,2026-09-23
+1278,Ultramar Ancla (Pamplona),Norte,Pamplona,España,Tienda gourmet,Feria,2023-01-09
+1279,Provisiones Ancla,Galicia,Santiago de Compostela,España,Distribuidor,Comercial directo,2022-03-15
+1280,Restaurante Timón,Galicia,Santiago de Compostela,España,Hostelería,Distribuidor,2022-05-27
+1281,Taberna Timón,Galicia,Lugo,España,Hostelería,Web,2026-09-09
+1282,Mesón Timón (A Coruña),Galicia,A Coruña,España,Hostelería,Web,2023-12-20
+1283,Cadena Timón,Sur,Málaga,España,Gran cuenta,Comercial directo,2022-01-13
+1284,Vinoteca Timón,Internacional,Oporto,Portugal,Tienda gourmet,Comercial directo,2022-03-22
+1285,Gastrobar Timón (Madrid),Centro,Madrid,España,Hostelería,Distribuidor,2025-09-07
+1286,Charcutería Timón,Internacional,Burdeos,Francia,Tienda gourmet,Comercial directo,2025-11-28
+1287,Mercado Timón,Galicia,Vigo,España,Tienda gourmet,Feria,2026-10-01
+1288,Economatos Timón,Centro,Toledo,España,Gran cuenta,Web,2026-01-25
+1289,Bodega Timón (Pontevedra),Galicia,Pontevedra,España,Tienda gourmet,Comercial directo,2025-12-31
+1290,Delicatessen Velero (Girona),Este,Girona,España,Tienda gourmet,Web,2023-04-19
+1291,Ultramarinos Velero (Toledo),Centro,Toledo,España,Tienda gourmet,Feria,2024-12-04
+1292,Mesón Velero,Galicia,Santiago de Compostela,España,Hostelería,Distribuidor,2025-03-16
+1293,Despensa Velero,Centro,Madrid,España,Tienda gourmet,Distribuidor,2024-08-21
+1294,Pulpería Velero (Ourense),Galicia,Ourense,España,Hostelería,Distribuidor,2022-10-21
+1295,Tienda Gourmet Velero,Centro,Valladolid,España,Tienda gourmet,Web,2022-01-09
+1296,Hotel Velero,Norte,Bilbao,España,Hostelería,Distribuidor,2024-04-17
+1297,Mercado Velero,Galicia,Ourense,España,Tienda gourmet,Feria,2026-02-03
+1298,Ultramar Velero (Oporto),Internacional,Oporto,Portugal,Tienda gourmet,Comercial directo,2024-08-17
+1299,Bodega Velero (Granada),Sur,Granada,España,Tienda gourmet,Web,2025-08-09
+1300,Distribuciones Gaviota (Lisboa),Internacional,Lisboa,Portugal,Distribuidor,Feria,2025-11-11
+1301,Ultramarinos Gaviota,Galicia,Santiago de Compostela,España,Tienda gourmet,Web,2026-06-16
+1302,Colmado Gaviota (San Sebastián),Norte,San Sebastián,España,Tienda gourmet,Comercial directo,2023-04-08
+1303,Marisquería Gaviota (Alicante),Este,Alicante,España,Hostelería,Feria,2025-08-28
+1304,Pulpería Gaviota,Este,Girona,España,Hostelería,Comercial directo,2022-06-24
+1305,Tienda Gourmet Gaviota,Galicia,Lugo,España,Tienda gourmet,Web,2022-12-21
+1306,Logística Alimentaria Gaviota,Galicia,Pontevedra,España,Distribuidor,Comercial directo,2025-07-09
+1307,Casa de Comidas Gaviota,Centro,Segovia,España,Hostelería,Comercial directo,2024-07-04
+1308,Bar Gaviota (Lugo),Galicia,Lugo,España,Hostelería,Comercial directo,2024-01-08
+1309,Asador Gaviota,Centro,Cáceres,España,Hostelería,Distribuidor,2026-10-03
+1310,Delicatessen Caracola (Oviedo),Norte,Oviedo,España,Tienda gourmet,Web,2025-05-14
+1311,Ultramarinos Caracola,Este,Girona,España,Tienda gourmet,Distribuidor,2024-08-20
+1312,Colmado Caracola (Ciudad de México),Internacional,Ciudad de México,México,Tienda gourmet,Comercial directo,2024-04-30
+1313,Cash Caracola,Galicia,Pontevedra,España,Distribuidor,Web,2023-03-30
+1314,Pulpería Caracola,Galicia,Ourense,España,Hostelería,Comercial directo,2026-10-20
+1315,Almacenes Caracola,Norte,Oviedo,España,Distribuidor,Web,2025-01-03
+1316,Charcutería Caracola,Sur,Sevilla,España,Tienda gourmet,Web,2022-11-28
+1317,Mercado Caracola,Este,Girona,España,Tienda gourmet,Web,2024-11-08
+1318,Gourmet Selección Caracola,Internacional,Lisboa,Portugal,Distribuidor,Web,2024-06-18
+1319,Provisiones Caracola,Galicia,Ourense,España,Distribuidor,Feria,2025-04-18
+1320,Delicatessen Coral,Galicia,Ourense,España,Tienda gourmet,Distribuidor,2024-04-15
+1321,Comercial Coral,Galicia,Santiago de Compostela,España,Distribuidor,Comercial directo,2025-11-17
+1322,Colmado Coral,Sur,Murcia,España,Tienda gourmet,Web,2023-11-10
+1323,Despensa Coral (Lugo),Galicia,Lugo,España,Tienda gourmet,Web,2024-07-15
+1324,Vinoteca Coral,Galicia,Ourense,España,Tienda gourmet,Distribuidor,2024-05-03
+1325,Tienda Gourmet Coral (Toledo),Centro,Toledo,España,Tienda gourmet,Feria,2026-03-23
+1326,Hotel Coral,Galicia,Santiago de Compostela,España,Hostelería,Feria,2022-11-29
+1327,Casa de Comidas Coral,Galicia,Pontevedra,España,Hostelería,Feria,2022-09-26
+1328,Ultramar Coral,Galicia,Vigo,España,Tienda gourmet,Web,2026-09-04
+1329,Asador Coral,Este,Alicante,España,Hostelería,Comercial directo,2022-04-19
+1330,Distribuciones Perla,Galicia,Ourense,España,Distribuidor,Web,2025-12-26
+1331,Ultramarinos Perla,Centro,Cáceres,España,Tienda gourmet,Comercial directo,2026-06-16
+1332,Mesón Perla (Santiago de Compostela),Galicia,Santiago de Compostela,España,Hostelería,Distribuidor,2025-09-28
+1333,Marisquería Perla,Centro,Valladolid,España,Hostelería,Distribuidor,2023-02-16
+1334,Suministros Hosteleros Perla,Galicia,Pontevedra,España,Distribuidor,Comercial directo,2025-10-19
+1335,Gastrobar Perla,Galicia,Santiago de Compostela,España,Hostelería,Feria,2022-04-06
+1336,Charcutería Perla,Galicia,Pontevedra,España,Tienda gourmet,Distribuidor,2022-10-27
+1337,Casa de Comidas Perla (A Coruña),Galicia,A Coruña,España,Hostelería,Distribuidor,2023-06-28
+1338,Bar Perla (Segovia),Centro,Segovia,España,Hostelería,Feria,2023-11-14
+1339,Bodega Perla,Este,Zaragoza,España,Tienda gourmet,Comercial directo,2024-08-20
+1340,Delicatessen Alameda (Madrid),Centro,Madrid,España,Tienda gourmet,Distribuidor,2026-05-21
+1341,Taberna Alameda (A Coruña),Galicia,A Coruña,España,Hostelería,Feria,2023-11-04
+1342,Alimentación Alameda,Sur,Málaga,España,Distribuidor,Web,2022-12-04
+1343,Marisquería Alameda,Centro,Segovia,España,Hostelería,Distribuidor,2025-04-12
+1344,Pulpería Alameda,Sur,Sevilla,España,Hostelería,Comercial directo,2026-08-14
+1345,Gastrobar Alameda,Norte,Gijón,España,Hostelería,Comercial directo,2022-08-31
+1346,Charcutería Alameda (Murcia),Sur,Murcia,España,Tienda gourmet,Web,2026-02-08
+1347,Casa de Comidas Alameda (Sevilla),Sur,Sevilla,España,Hostelería,Comercial directo,2026-02-27
+1348,Ultramar Alameda,Centro,Salamanca,España,Tienda gourmet,Web,2025-07-19
+1349,Asador Alameda,Este,Girona,España,Hostelería,Comercial directo,2024-09-24
+1350,Restaurante Plaza Mayor,Norte,Gijón,España,Hostelería,Feria,2025-12-05
+1351,Ultramarinos Plaza Mayor (Ourense),Galicia,Ourense,España,Tienda gourmet,Comercial directo,2022-07-30
+1352,Colmado Plaza Mayor,Galicia,Vigo,España,Tienda gourmet,Comercial directo,2025-04-23
+1353,Despensa Plaza Mayor,Internacional,Londres,Reino Unido,Tienda gourmet,Web,2024-08-24
+1354,Vinoteca Plaza Mayor,Este,Zaragoza,España,Tienda gourmet,Web,2022-12-05
+1355,Almacenes Plaza Mayor,Galicia,Ourense,España,Distribuidor,Web,2024-07-12
+1356,Charcutería Plaza Mayor (Santiago de Compostela),Galicia,Santiago de Compostela,España,Tienda gourmet,Comercial directo,2023-11-06
+1357,Casa de Comidas Plaza Mayor,Sur,Murcia,España,Hostelería,Comercial directo,2022-06-23
+1358,Gourmet Selección Plaza Mayor,Galicia,Pontevedra,España,Distribuidor,Feria,2024-12-25
+1359,Asador Plaza Mayor,Norte,Oviedo,España,Hostelería,Distribuidor,2026-07-18
+1360,Restaurante La Esquina,Este,Palma,España,Hostelería,Web,2026-06-05
+1361,Taberna La Esquina,Galicia,Santiago de Compostela,España,Hostelería,Web,2026-07-08
+1362,Colmado La Esquina,Este,Palma,España,Tienda gourmet,Distribuidor,2024-04-05
+1363,Cash La Esquina,Sur,Cádiz,España,Distribuidor,Web,2022-04-05
+1364,Vinoteca La Esquina,Este,Girona,España,Tienda gourmet,Feria,2026-02-11
+1365,Tienda Gourmet La Esquina,Centro,Cáceres,España,Tienda gourmet,Distribuidor,2025-11-14
+1366,Charcutería La Esquina,Galicia,Santiago de Compostela,España,Tienda gourmet,Comercial directo,2026-09-28
+1367,Hipercentro La Esquina,Centro,Segovia,España,Gran cuenta,Comercial directo,2022-08-11
+1368,Ultramar La Esquina,Sur,Cádiz,España,Tienda gourmet,Web,2022-05-27
+1369,Cooperativa La Esquina,Centro,Cáceres,España,Gran cuenta,Web,2024-06-03
+1370,Distribuciones El Rincón,Galicia,A Coruña,España,Distribuidor,Web,2024-06-20
+1371,Ultramarinos El Rincón,Galicia,Pontevedra,España,Tienda gourmet,Comercial directo,2025-03-07
+1372,Alimentación El Rincón,Este,Alicante,España,Distribuidor,Distribuidor,2024-10-31
+1373,Despensa El Rincón (Santiago de Compostela),Galicia,Santiago de Compostela,España,Tienda gourmet,Web,2023-11-21
+1374,Pulpería El Rincón,Este,Palma,España,Hostelería,Distribuidor,2022-04-21
+1375,Almacenes El Rincón,Internacional,Londres,Reino Unido,Distribuidor,Web,2026-06-12
+1376,Superalimentación El Rincón,Sur,Málaga,España,Gran cuenta,Feria,2025-07-12
+1377,Importaciones El Rincón,Norte,San Sebastián,España,Distribuidor,Comercial directo,2024-07-09
+1378,Gourmet Selección El Rincón (Pontevedra),Galicia,Pontevedra,España,Distribuidor,Comercial directo,2025-05-01
+1379,Bodega El Rincón (Palma),Este,Palma,España,Tienda gourmet,Comercial directo,2023-11-14
+1380,Delicatessen San Juan (Ourense),Galicia,Ourense,España,Tienda gourmet,Web,2026-10-31
+1381,Taberna San Juan,Galicia,Ourense,España,Hostelería,Web,2026-06-25
+1382,Colmado San Juan,Galicia,Santiago de Compostela,España,Tienda gourmet,Distribuidor,2026-04-12
+1383,Marisquería San Juan (Gijón),Norte,Gijón,España,Hostelería,Comercial directo,2026-01-31
+1384,Vinoteca San Juan (Pontevedra),Galicia,Pontevedra,España,Tienda gourmet,Feria,2025-05-22
+1385,Gastrobar San Juan (Pamplona),Norte,Pamplona,España,Hostelería,Distribuidor,2023-05-13
+1386,Logística Alimentaria San Juan,Norte,San Sebastián,España,Distribuidor,Distribuidor,2025-05-11
+1387,Mercado San Juan,Sur,Granada,España,Tienda gourmet,Feria,2025-01-19
+1388,Bar San Juan,Centro,Cáceres,España,Hostelería,Web,2023-04-27
+1389,Provisiones San Juan,Norte,Gijón,España,Distribuidor,Comercial directo,2022-05-25
+1390,Restaurante Santiago (Zaragoza),Este,Zaragoza,España,Hostelería,Comercial directo,2022-10-07
+1391,Ultramarinos Santiago (Murcia),Sur,Murcia,España,Tienda gourmet,Comercial directo,2026-08-29
+1392,Grupo Santiago,Centro,Toledo,España,Gran cuenta,Comercial directo,2023-06-03
+1393,Cadena Santiago,Norte,Santander,España,Gran cuenta,Distribuidor,2024-09-08
+1394,Pulpería Santiago (Segovia),Centro,Segovia,España,Hostelería,Web,2026-03-09
+1395,Almacenes Santiago,Norte,Bilbao,España,Distribuidor,Comercial directo,2023-08-17
+1396,Charcutería Santiago,Centro,Salamanca,España,Tienda gourmet,Feria,2023-08-01
+1397,Mercado Santiago,Galicia,A Coruña,España,Tienda gourmet,Comercial directo,2026-03-05
+1398,Ultramar Santiago,Centro,Cáceres,España,Tienda gourmet,Web,2022-03-23
+1399,Asador Santiago,Este,Barcelona,España,Hostelería,Web,2024-05-17
+1400,Delicatessen San Marcos,Sur,Murcia,España,Tienda gourmet,Distribuidor,2025-02-02
+1401,Taberna San Marcos,Galicia,Pontevedra,España,Hostelería,Distribuidor,2025-06-25
+1402,Mesón San Marcos,Galicia,A Coruña,España,Hostelería,Web,2022-06-19
+1403,Marisquería San Marcos,Centro,Salamanca,España,Hostelería,Distribuidor,2025-11-30
+1404,Vinoteca San Marcos,Centro,Salamanca,España,Tienda gourmet,Web,2022-03-01
+1405,Tienda Gourmet San Marcos (Girona),Este,Girona,España,Tienda gourmet,Web,2022-09-05
+1406,Hotel San Marcos,Galicia,Ourense,España,Hostelería,Comercial directo,2024-11-09
+1407,Mercado San Marcos (A Coruña),Galicia,A Coruña,España,Tienda gourmet,Comercial directo,2023-05-14
+1408,Ultramar San Marcos (Gijón),Norte,Gijón,España,Tienda gourmet,Web,2024-09-28
+1409,Provisiones San Marcos,Internacional,Londres,Reino Unido,Distribuidor,Distribuidor,2024-02-29
+1410,Delicatessen El Carmen (Zaragoza),Este,Zaragoza,España,Tienda gourmet,Comercial directo,2023-04-11
+1411,Ultramarinos El Carmen,Este,Girona,España,Tienda gourmet,Web,2022-11-09
+1412,Mesón El Carmen,Galicia,Pontevedra,España,Hostelería,Web,2024-09-02
+1413,Despensa El Carmen,Centro,Valladolid,España,Tienda gourmet,Comercial directo,2024-06-14
+1414,Vinoteca El Carmen (Palma),Este,Palma,España,Tienda gourmet,Comercial directo,2026-09-02
+1415,Gastrobar El Carmen,Este,Zaragoza,España,Hostelería,Web,2023-09-12
+1416,Superalimentación El Carmen,Centro,Cáceres,España,Gran cuenta,Comercial directo,2026-01-27
+1417,Casa de Comidas El Carmen,Galicia,Santiago de Compostela,España,Hostelería,Feria,2025-08-24
+1418,Ultramar El Carmen (Cádiz),Sur,Cádiz,España,Tienda gourmet,Feria,2026-05-30
+1419,Provisiones El Carmen,Centro,Madrid,España,Distribuidor,Distribuidor,2026-11-09
+1420,Delicatessen La Paz,Sur,Las Palmas de Gran Canaria,España,Tienda gourmet,Distribuidor,2026-09-18
+1421,Ultramarinos La Paz,Galicia,Pontevedra,España,Tienda gourmet,Comercial directo,2024-10-15
+1422,Colmado La Paz,Centro,Segovia,España,Tienda gourmet,Comercial directo,2023-02-16
+1423,Despensa La Paz,Centro,Valladolid,España,Tienda gourmet,Web,2022-01-05
+1424,Vinoteca La Paz,Sur,Las Palmas de Gran Canaria,España,Tienda gourmet,Web,2023-03-17
+1425,Tienda Gourmet La Paz,Este,Girona,España,Tienda gourmet,Comercial directo,2023-02-15
+1426,Charcutería La Paz (Pontevedra),Galicia,Pontevedra,España,Tienda gourmet,Comercial directo,2025-08-10
+1427,Casa de Comidas La Paz,Este,Palma,España,Hostelería,Web,2026-03-22
+1428,Bar La Paz,Internacional,Lisboa,Portugal,Hostelería,Web,2025-10-10
+1429,Asador La Paz,Centro,Madrid,España,Hostelería,Distribuidor,2025-12-11
+1430,Delicatessen Los Arcos,Centro,Valladolid,España,Tienda gourmet,Web,2022-06-13
+1431,Taberna Los Arcos (Barcelona),Este,Barcelona,España,Hostelería,Distribuidor,2024-08-11
+1432,Alimentación Los Arcos,Galicia,Pontevedra,España,Distribuidor,Comercial directo,2024-12-11
+1433,Despensa Los Arcos,Internacional,Londres,Reino Unido,Tienda gourmet,Feria,2024-02-25
+1434,Pulpería Los Arcos,Norte,Santander,España,Hostelería,Web,2023-04-26
+1435,Gastrobar Los Arcos (Oporto),Internacional,Oporto,Portugal,Hostelería,Web,2022-05-03
+1436,Logística Alimentaria Los Arcos,Galicia,Lugo,España,Distribuidor,Feria,2025-05-10
+1437,Mercado Los Arcos,Galicia,Vigo,España,Tienda gourmet,Comercial directo,2025-02-02
+1438,Bar Los Arcos,Este,Alicante,España,Hostelería,Feria,2023-10-01
+1439,Bodega Los Arcos,Galicia,Vigo,España,Tienda gourmet,Comercial directo,2024-03-23
+1440,Delicatessen La Fuente (Ourense),Galicia,Ourense,España,Tienda gourmet,Web,2022-05-31
+1441,Ultramarinos La Fuente,Galicia,A Coruña,España,Tienda gourmet,Web,2025-02-11
+1442,Colmado La Fuente,Galicia,A Coruña,España,Tienda gourmet,Feria,2025-11-21
+1443,Despensa La Fuente (A Coruña),Galicia,A Coruña,España,Tienda gourmet,Comercial directo,2023-02-26
+1444,Pulpería La Fuente,Centro,Cáceres,España,Hostelería,Web,2023-01-24
+1445,Tienda Gourmet La Fuente (Oviedo),Norte,Oviedo,España,Tienda gourmet,Web,2025-12-30
+1446,Charcutería La Fuente,Internacional,Oporto,Portugal,Tienda gourmet,Web,2024-02-04
+1447,Mercado La Fuente (Valladolid),Centro,Valladolid,España,Tienda gourmet,Web,2022-10-30
+1448,Economatos La Fuente,Centro,Cáceres,España,Gran cuenta,Comercial directo,2025-06-15
+1449,Asador La Fuente,Galicia,Lugo,España,Hostelería,Feria,2025-01-12
+1450,Restaurante El Pilar,Norte,San Sebastián,España,Hostelería,Distribuidor,2025-10-07
+1451,Ultramarinos El Pilar (San Sebastián),Norte,San Sebastián,España,Tienda gourmet,Distribuidor,2024-04-30
+1452,Colmado El Pilar (Girona),Este,Girona,España,Tienda gourmet,Web,2025-08-06
+1453,Despensa El Pilar (Toledo),Centro,Toledo,España,Tienda gourmet,Comercial directo,2023-08-06
+1454,Pulpería El Pilar,Galicia,Pontevedra,España,Hostelería,Comercial directo,2024-04-13
+1455,Gastrobar El Pilar,Galicia,Vigo,España,Hostelería,Web,2025-05-16
+1456,Hotel El Pilar (Girona),Este,Girona,España,Hostelería,Web,2022-02-23
+1457,Casa de Comidas El Pilar,Galicia,A Coruña,España,Hostelería,Feria,2023-09-20
+1458,Ultramar El Pilar,Galicia,A Coruña,España,Tienda gourmet,Web,2023-06-02
+1459,Cooperativa El Pilar,Sur,Málaga,España,Gran cuenta,Comercial directo,2024-03-08
+1460,Supermercados La Merced,Centro,Toledo,España,Gran cuenta,Comercial directo,2023-07-13
+1461,Ultramarinos La Merced (Valencia),Este,Valencia,España,Tienda gourmet,Comercial directo,2025-03-13
+1462,Mesón La Merced,Sur,Málaga,España,Hostelería,Feria,2024-02-07
+1463,Cash La Merced,Norte,Bilbao,España,Distribuidor,Distribuidor,2024-07-26
+1464,Suministros Hosteleros La Merced (Santander),Norte,Santander,España,Distribuidor,Comercial directo,2026-05-29
+1465,Almacenes La Merced,Internacional,París,Francia,Distribuidor,Feria,2023-03-21
+1466,Charcutería La Merced,Sur,Las Palmas de Gran Canaria,España,Tienda gourmet,Comercial directo,2024-05-04
+1467,Importaciones La Merced,Galicia,Santiago de Compostela,España,Distribuidor,Distribuidor,2023-11-24
+1468,Gourmet Selección La Merced,Galicia,Santiago de Compostela,España,Distribuidor,Web,2026-05-18
+1469,Bodega La Merced (Málaga),Sur,Málaga,España,Tienda gourmet,Web,2024-03-15
+1470,Distribuciones Las Flores,Centro,Segovia,España,Distribuidor,Distribuidor,2022-12-27
+1471,Ultramarinos Las Flores,Galicia,Vigo,España,Tienda gourmet,Feria,2023-04-01
+1472,Colmado Las Flores (Londres),Internacional,Londres,Reino Unido,Tienda gourmet,Web,2026-08-24
+1473,Despensa Las Flores (Oviedo),Norte,Oviedo,España,Tienda gourmet,Feria,2023-02-12
+1474,Vinoteca Las Flores,Galicia,Pontevedra,España,Tienda gourmet,Feria,2023-05-02
+1475,Almacenes Las Flores,Galicia,Santiago de Compostela,España,Distribuidor,Web,2026-03-18
+1476,Hotel Las Flores,Galicia,Ourense,España,Hostelería,Distribuidor,2023-09-10
+1477,Casa de Comidas Las Flores,Centro,Segovia,España,Hostelería,Distribuidor,2022-03-03
+1478,Bar Las Flores (Cádiz),Sur,Cádiz,España,Hostelería,Comercial directo,2025-06-21
+1479,Provisiones Las Flores (Girona),Este,Girona,España,Distribuidor,Comercial directo,2024-12-29
+1480,Delicatessen El Olivo (Barcelona),Este,Barcelona,España,Tienda gourmet,Distribuidor,2024-02-04
+1481,Taberna El Olivo (Palma),Este,Palma,España,Hostelería,Feria,2024-10-20
+1482,Mesón El Olivo (París),Internacional,París,Francia,Hostelería,Comercial directo,2023-03-05
+1483,Despensa El Olivo,Galicia,Pontevedra,España,Tienda gourmet,Web,2026-07-25
+1484,Vinoteca El Olivo,Internacional,París,Francia,Tienda gourmet,Web,2024-02-10
+1485,Tienda Gourmet El Olivo,Norte,Gijón,España,Tienda gourmet,Web,2023-04-22
+1486,Charcutería El Olivo (Burdeos),Internacional,Burdeos,Francia,Tienda gourmet,Feria,2026-10-12
+1487,Importaciones El Olivo,Este,Valencia,España,Distribuidor,Web,2022-01-05
+1488,Ultramar El Olivo,Galicia,Ourense,España,Tienda gourmet,Web,2022-10-17
+1489,Bodega El Olivo (Segovia),Centro,Segovia,España,Tienda gourmet,Comercial directo,2025-05-20
+1490,Delicatessen La Encina,Galicia,Santiago de Compostela,España,Tienda gourmet,Comercial directo,2022-10-19
+1491,Ultramarinos La Encina,Galicia,Lugo,España,Tienda gourmet,Web,2023-02-11
+1492,Grupo La Encina,Norte,Oviedo,España,Gran cuenta,Web,2022-03-24
+1493,Marisquería La Encina (Sevilla),Sur,Sevilla,España,Hostelería,Comercial directo,2023-03-30
+1494,Pulpería La Encina,Sur,Málaga,España,Hostelería,Web,2022-01-29
+1495,Tienda Gourmet La Encina,Centro,Cáceres,España,Tienda gourmet,Comercial directo,2026-07-04
+1496,Hotel La Encina,Este,Zaragoza,España,Hostelería,Web,2024-12-11
+1497,Casa de Comidas La Encina,Este,Valencia,España,Hostelería,Feria,2023-11-13
+1498,Bar La Encina,Norte,Gijón,España,Hostelería,Distribuidor,2022-07-27
+1499,Bodega La Encina,Centro,Toledo,España,Tienda gourmet,Comercial directo,2023-12-25
+1500,Supermercados Los Pinos,Centro,Segovia,España,Gran cuenta,Feria,2022-11-26
+1501,Ultramarinos Los Pinos,Centro,Segovia,España,Tienda gourmet,Feria,2026-11-02
+1502,Colmado Los Pinos (Cáceres),Centro,Cáceres,España,Tienda gourmet,Feria,2026-11-14
+1503,Despensa Los Pinos (Pontevedra),Galicia,Pontevedra,España,Tienda gourmet,Feria,2026-11-09
+1504,Suministros Hosteleros Los Pinos,Sur,Cádiz,España,Distribuidor,Feria,2026-11-21
+1505,Tienda Gourmet Los Pinos (A Coruña),Galicia,A Coruña,España,Tienda gourmet,Feria,2026-11-02
+1506,Logística Alimentaria Los Pinos,Centro,Toledo,España,Distribuidor,Feria,2026-11-21
+1507,Casa de Comidas Los Pinos,Este,Valencia,España,Hostelería,Feria,2026-11-20
+1508,Ultramar Los Pinos (Murcia),Sur,Murcia,España,Tienda gourmet,Feria,2026-11-21
+1509,Asador Los Pinos,Este,Alicante,España,Hostelería,Feria,2026-11-05
+1510,Delicatessen El Roble (Lugo),Galicia,Lugo,España,Tienda gourmet,Feria,2026-11-24
+1511,Comercial El Roble,Galicia,A Coruña,España,Distribuidor,Feria,2026-11-14
+1512,Alimentación El Roble,Centro,Valladolid,España,Distribuidor,Feria,2026-11-02
+1513,Cadena El Roble,Centro,Cáceres,España,Gran cuenta,Feria,2026-11-04
+1514,Vinoteca El Roble (Toledo),Centro,Toledo,España,Tienda gourmet,Feria,2026-11-21
+1515,Tienda Gourmet El Roble (A Coruña),Galicia,A Coruña,España,Tienda gourmet,Feria,2026-11-24
+1516,Charcutería El Roble (Segovia),Centro,Segovia,España,Tienda gourmet,Feria,2026-11-21
+1517,Mercado El Roble (Vigo),Galicia,Vigo,España,Tienda gourmet,Feria,2026-11-12
+1518,Bar El Roble,Norte,Gijón,España,Hostelería,Feria,2026-11-08
+1519,Asador El Roble (Bilbao),Norte,Bilbao,España,Hostelería,Feria,2026-11-15
+1520,Restaurante La Ermita (A Coruña),Galicia,A Coruña,España,Hostelería,Feria,2026-11-22
+1521,Taberna La Ermita (San Sebastián),Norte,San Sebastián,España,Hostelería,Feria,2026-11-02
+1522,Colmado La Ermita,Centro,Salamanca,España,Tienda gourmet,Feria,2026-11-09
+1523,Despensa La Ermita,Galicia,Santiago de Compostela,España,Tienda gourmet,Feria,2026-11-15
+1524,Vinoteca La Ermita,Internacional,Ciudad de México,México,Tienda gourmet,Feria,2026-11-06
+1525,Gastrobar La Ermita (Vigo),Galicia,Vigo,España,Hostelería,Feria,2026-11-15

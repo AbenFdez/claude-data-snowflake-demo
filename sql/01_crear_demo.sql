@@ -20,12 +20,12 @@
    ⚠ CREATE OR REPLACE DATABASE borra y recrea DEMO_CLAUDE_DATA entera cada vez.
 
    Historia que esconden los datos (lo que Claude debería descubrir en la demo)
-     · Casi todos los mercados crecen en el trimestre en curso (≈ +8-12 % frente
-       al mismo periodo del trimestre anterior)...
-     · ...salvo SUR, que cae (≈ -15 %): su mayor cliente, la cadena
+     · Casi todos los mercados crecen en el trimestre en curso frente al
+       mismo periodo del trimestre anterior...
+     · ...salvo SUR, que cae: su mayor cliente, la cadena
        "Supermercados Hispalis" (Gran cuenta, Sevilla), dejó de comprar unas tres
        semanas antes del inicio del trimestre.
-     · INTERNACIONAL es el que más crece (≈ +30 %), empujado por importadores
+     · INTERNACIONAL es la que más crece, empujado por importadores
        (canal Distribuidor) en Portugal, Francia, Reino Unido y México.
      · Este mes se disparan las ALTAS de clientes por el canal FERIA.
      · En noviembre y diciembre suben los lotes y estuches de regalo de Navidad.
