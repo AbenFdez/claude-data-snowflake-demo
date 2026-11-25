@@ -7,8 +7,9 @@
      toda España y del extranjero.
    -----------------------------------------------------------------------------
    Cómo usarlo
-     1. En Snowsight: Projects > Worksheets > "+" > SQL Worksheet.
-     2. Pega este script entero y ejecútalo con "Run All" (Ctrl/Cmd + Shift + Enter).
+     1. En Snowsight: Projects > Workspaces (antes Worksheets) > "+" > SQL.
+     2. Pega este script entero y ejecútalo con "Run All" (flecha junto a ▶,
+        o Ctrl/Cmd + Shift + Enter). El botón ▶ solo ejecuta la consulta del cursor.
      3. Tarda menos de un minuto en un warehouse X-Small.
 
    Las fechas son RELATIVAS al día en que se ejecuta: 8 trimestres de datos que
@@ -58,12 +59,13 @@ CREATE SCHEMA DEMO_CLAUDE_DATA.VENTAS
 USE SCHEMA DEMO_CLAUDE_DATA.VENTAS;
 
 -- Ventana temporal: 8 trimestres que terminan ayer
-SET fecha_fin        = DATEADD('day', -1, CURRENT_DATE());
-SET inicio_trimestre = DATE_TRUNC('quarter', $fecha_fin);
-SET inicio_mes       = DATE_TRUNC('month', $fecha_fin);
-SET fecha_inicio     = DATEADD('quarter', -7, $inicio_trimestre);
-SET ndias            = DATEDIFF('day', $fecha_inicio, $fecha_fin) + 1;
-SET dias_mes         = DATEDIFF('day', $inicio_mes, $fecha_fin) + 1;
+-- (Snowflake exige un SELECT para asignar a una variable algo calculado a partir de la fecha de hoy)
+SET fecha_fin        = (SELECT DATEADD('day', -1, CURRENT_DATE()));
+SET inicio_trimestre = (SELECT DATE_TRUNC('quarter', $fecha_fin));
+SET inicio_mes       = (SELECT DATE_TRUNC('month', $fecha_fin));
+SET fecha_inicio     = (SELECT DATEADD('quarter', -7, $inicio_trimestre));
+SET ndias            = (SELECT DATEDIFF('day', $fecha_inicio, $fecha_fin) + 1);
+SET dias_mes         = (SELECT DATEDIFF('day', $inicio_mes, $fecha_fin) + 1);
 
 
 /* ---------------------------------------------------------------------------
@@ -454,8 +456,8 @@ GRANT SELECT ON ALL TABLES IN SCHEMA DEMO_CLAUDE_DATA.VENTAS TO ROLE CLAUDE_DATA
 GRANT SELECT ON ALL VIEWS  IN SCHEMA DEMO_CLAUDE_DATA.VENTAS TO ROLE CLAUDE_DATA_LECTOR;
 
 -- Te asigna el rol a ti (el usuario que ejecuta el script)
-SET mi_usuario = CURRENT_USER();
-GRANT ROLE CLAUDE_DATA_LECTOR TO USER IDENTIFIER($mi_usuario);
+SET sql_grant = (SELECT 'GRANT ROLE CLAUDE_DATA_LECTOR TO USER "' || CURRENT_USER() || '"');
+EXECUTE IMMEDIATE $sql_grant;
 
 
 /* ---------------------------------------------------------------------------

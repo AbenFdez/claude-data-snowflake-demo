@@ -35,7 +35,8 @@ Documentación oficial:
 .
 ├── README.md
 ├── assets/
-│   └── logo-conservas-ardora.jpg      # Logo de la conservera
+│   ├── logo-conservas-ardora.jpg      # Logo de la conservera
+│   └── snowflake-resultado.png        # Resultado esperado al ejecutar el script
 ├── sql/
 │   ├── 01_crear_demo.sql              # Crea warehouse, base de datos, tablas, vista y rol de lectura
 │   ├── 02_consultas_certificadas.sql  # Consultas para certificar en Claude Data
@@ -49,9 +50,17 @@ Documentación oficial:
 
 ### 1. Crea los datos en Snowflake
 
-1. En Snowsight, abre **Projects › Worksheets › + › SQL Worksheet**.
+1. En Snowsight, abre **Projects › Workspaces** (antes *Worksheets*) y crea un archivo SQL nuevo con **+**.
 2. Pega [`sql/01_crear_demo.sql`](sql/01_crear_demo.sql) y pulsa **Run All**.
 3. Comprueba los resultados del apartado 8 del script: volumen de las tablas, variación por región, altas por canal y la sobreestimación al no filtrar por estado.
+
+   Al terminar, Snowsight muestra el resultado de la última consulta (8.4). Debería parecerse a esto (las cifras cambian en cada ejecución):
+
+   ![Resultado de la consulta 8.4 en Snowflake](assets/snowflake-resultado.png)
+
+   Sumar todos los pedidos da una cifra ≈ 8 % más alta que sumar solo los completados: es el motivo para certificar la consulta de ingresos.
+
+> Ejecuta el script con **Run All** (flecha junto al botón ▶). El botón ▶ solo ejecuta la consulta donde está el cursor.
 
 Se crea lo siguiente:
 
