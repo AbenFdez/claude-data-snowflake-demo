@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="assets/logo-conservas-ardora.jpg" alt="Logo de Conservas Ardora, A Illa de Arousa" width="320">
+</p>
+
 # Demo de Claude Data con Snowflake · Conservas Ardora
 
 Material para enseñar **Claude Data** sobre una base de datos de ejemplo en **Snowflake**. Incluye scripts SQL que generan los datos, el modelo de datos, el guion de la demo y las consultas para certificar.
 
-La empresa de los datos es **Conservas Ardora, S.L.**, una conservera ficticia de **Vilagarcía de Arousa (Pontevedra)** que vende conservas de marisco y pescado de las Rías Baixas a tiendas gourmet, hostelería, distribuidores y cadenas de supermercados de España y del extranjero.
+La empresa de los datos es **Conservas Ardora, S.L.**, una conservera ficticia fundada en 1945 en **A Illa de Arousa (Pontevedra)**, en plena ría de Arousa, que vende conservas de marisco y pescado de las Rías Baixas a tiendas gourmet, hostelería, distribuidores y cadenas de supermercados de España y del extranjero.
 
 > Todos los datos, nombres de clientes y personas son ficticios y se generan al azar en cada ejecución.
 
@@ -30,6 +34,8 @@ Documentación oficial:
 ```
 .
 ├── README.md
+├── assets/
+│   └── logo-conservas-ardora.jpg      # Logo de la conservera
 ├── sql/
 │   ├── 01_crear_demo.sql              # Crea warehouse, base de datos, tablas, vista y rol de lectura
 │   ├── 02_consultas_certificadas.sql  # Consultas para certificar en Claude Data

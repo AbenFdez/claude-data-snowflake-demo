@@ -1,7 +1,7 @@
 /* =============================================================================
    DEMO CLAUDE DATA · Base de datos de ejemplo en Snowflake
    Empresa ficticia: CONSERVAS ARDORA, S.L.
-     Conservera de Vilagarcía de Arousa (Pontevedra), en la ría de Arousa.
+     Conservera fundada en 1945 en A Illa de Arousa (Pontevedra), en la ría de Arousa.
      Elabora conservas de marisco y pescado de las Rías Baixas y las vende a
      tiendas gourmet, hostelería, distribuidores y cadenas de supermercados de
      toda España y del extranjero.
@@ -52,7 +52,7 @@ CREATE WAREHOUSE IF NOT EXISTS CLAUDE_DATA_WH
 USE WAREHOUSE CLAUDE_DATA_WH;
 
 CREATE OR REPLACE DATABASE DEMO_CLAUDE_DATA
-  COMMENT = 'Datos ficticios de Conservas Ardora (Vilagarcía de Arousa) para la demo de Claude Data';
+  COMMENT = 'Datos ficticios de Conservas Ardora (A Illa de Arousa) para la demo de Claude Data';
 CREATE SCHEMA DEMO_CLAUDE_DATA.VENTAS
   COMMENT = 'Ventas, clientes, productos y objetivos comerciales de Conservas Ardora';
 USE SCHEMA DEMO_CLAUDE_DATA.VENTAS;
